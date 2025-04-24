@@ -1,0 +1,701 @@
+incident_id,date,industry,location,job_role,task,injury_type,body_part,incident_cause,incident_severity,ppe_used,hazard_reported,supervision,work_hours_before_incident,cost_estimate_usd
+INC0001,2024-11-01,Mining,Solisport,Electrician,Lifting,Burn,Arm,Fall,Minor,No,Yes,No,8,1160.7
+INC0002,2022-07-20,Construction,Port Eduardohaven,Technician,Inspection,Sprain,Leg,Fire,Minor,Yes,Yes,No,1,34447.49
+INC0003,2023-11-07,Utilities,Blackside,Technician,Maintenance,Fracture,Head,Fire,Major,Yes,Yes,Yes,6,14577.44
+INC0004,2024-09-11,Mining,Millston,Safety Officer,Maintenance,Crush Injury,Arm,Fall,Minor,Yes,No,No,12,49020.19
+INC0005,2022-10-31,Mining,Cynthiaport,Electrician,Welding,Burn,Foot,Fire,Major,No,Yes,Yes,5,42914.96
+INC0006,2024-02-10,Mining,East Latoyastad,Electrician,Inspection,Laceration,Head,Fall,Major,No,Yes,No,10,4043.81
+INC0007,2023-09-25,Construction,Pricemouth,Electrician,Welding,Sprain,Arm,Chemical Exposure,Minor,No,Yes,No,11,2961.19
+INC0008,2024-06-23,Construction,Jonathanfurt,Electrician,Drilling,Crush Injury,Arm,Fall,Minor,No,Yes,Yes,6,36471.27
+INC0009,2024-12-05,Oil & Gas,Williamland,Electrician,Drilling,Fracture,Arm,Equipment Failure,Minor,No,Yes,Yes,9,31536.22
+INC0010,2023-10-04,Utilities,Roweborough,Welder,Lifting,Crush Injury,Hand,Equipment Failure,Minor,Yes,No,No,3,10064.17
+INC0011,2024-04-18,Construction,Port Kylebury,Technician,Welding,Sprain,Back,Chemical Exposure,Minor,Yes,Yes,No,9,24296.15
+INC0012,2024-02-24,Construction,Davidshire,Machine Operator,Welding,Fracture,Foot,Human Error,Minor,No,Yes,Yes,11,7185.71
+INC0013,2024-12-20,Oil & Gas,Hughesland,Safety Officer,Welding,Sprain,Foot,Chemical Exposure,Minor,No,Yes,Yes,10,16955.43
+INC0014,2022-09-04,Construction,Port Jenniferfurt,Technician,Maintenance,Crush Injury,Leg,Chemical Exposure,Minor,Yes,Yes,Yes,9,2618.55
+INC0015,2024-09-30,Utilities,North Kayla,Safety Officer,Lifting,Burn,Head,Fire,Minor,Yes,Yes,No,6,44982.34
+INC0016,2023-10-02,Utilities,North Elizabethshire,Machine Operator,Lifting,Burn,Hand,Fire,Minor,No,No,No,12,23112.93
+INC0017,2024-04-09,Mining,Judymouth,Safety Officer,Maintenance,Sprain,Hand,Equipment Failure,Minor,No,Yes,No,7,23057.38
+INC0018,2022-06-16,Construction,Greermouth,Safety Officer,Welding,Laceration,Back,Fire,Minor,No,No,No,3,29959.28
+INC0019,2024-03-17,Oil & Gas,North Michelleton,Welder,Maintenance,Crush Injury,Arm,Fall,Minor,No,Yes,Yes,9,1902.25
+INC0020,2024-02-17,Construction,Holderberg,Safety Officer,Lifting,Laceration,Back,Human Error,Minor,Yes,No,Yes,11,41122.42
+INC0021,2022-05-09,Manufacturing,New Jeffreyfort,Technician,Maintenance,Burn,Leg,Fall,Minor,No,No,No,11,22340.77
+INC0022,2023-11-12,Manufacturing,West Kayla,Technician,Maintenance,Fracture,Head,Fall,Minor,No,Yes,No,9,9016.17
+INC0023,2022-05-17,Oil & Gas,Markland,Welder,Welding,Burn,Leg,Chemical Exposure,Minor,Yes,No,No,11,20102.82
+INC0024,2024-06-15,Oil & Gas,Port Christine,Safety Officer,Drilling,Laceration,Hand,Human Error,Minor,No,No,No,9,44239.92
+INC0025,2025-03-12,Mining,Robinton,Machine Operator,Drilling,Burn,Arm,Equipment Failure,Minor,No,Yes,No,3,37504.82
+INC0026,2025-04-02,Oil & Gas,Gilbertborough,Electrician,Inspection,Burn,Leg,Fall,Minor,Yes,No,Yes,11,10452.2
+INC0027,2024-11-10,Mining,Hillberg,Electrician,Welding,Fracture,Leg,Equipment Failure,Minor,No,Yes,Yes,7,32595.26
+INC0028,2022-09-16,Utilities,North Garyport,Machine Operator,Welding,Sprain,Arm,Fire,Major,No,Yes,No,6,47849.01
+INC0029,2025-03-18,Construction,East Sean,Electrician,Drilling,Burn,Head,Chemical Exposure,Major,No,Yes,No,8,20270.5
+INC0030,2022-11-09,Manufacturing,South Maryview,Electrician,Welding,Laceration,Leg,Fall,Minor,No,No,No,9,19543.2
+INC0031,2022-05-11,Manufacturing,East Tanya,Safety Officer,Lifting,Fracture,Back,Fire,Major,Yes,Yes,No,10,41035.01
+INC0032,2024-11-26,Manufacturing,Maddenview,Safety Officer,Maintenance,Sprain,Back,Chemical Exposure,Minor,No,No,No,5,36468.78
+INC0033,2023-05-22,Manufacturing,Nguyenview,Machine Operator,Maintenance,Crush Injury,Foot,Fire,Minor,Yes,Yes,No,4,35537.26
+INC0034,2023-10-05,Construction,Lopezland,Technician,Drilling,Laceration,Foot,Equipment Failure,Minor,No,No,No,9,29956.98
+INC0035,2022-12-18,Utilities,Leonardshire,Technician,Maintenance,Laceration,Leg,Human Error,Minor,Yes,No,No,1,9611.42
+INC0036,2023-09-09,Construction,Gonzalezmouth,Machine Operator,Drilling,Crush Injury,Back,Equipment Failure,Major,No,Yes,No,4,48512.77
+INC0037,2023-08-20,Utilities,South Ericaview,Welder,Drilling,Burn,Back,Human Error,Major,Yes,No,No,8,15333.93
+INC0038,2023-12-13,Manufacturing,Wrightmouth,Technician,Inspection,Crush Injury,Back,Human Error,Fatal,Yes,No,No,4,49187.38
+INC0039,2024-07-26,Construction,Patriciatown,Technician,Inspection,Laceration,Hand,Equipment Failure,Minor,No,Yes,Yes,2,30206.77
+INC0040,2024-06-16,Oil & Gas,Stokesport,Machine Operator,Drilling,Fracture,Leg,Fire,Minor,No,Yes,No,3,41390.69
+INC0041,2023-08-22,Oil & Gas,New Staceystad,Machine Operator,Inspection,Crush Injury,Hand,Human Error,Minor,No,No,No,1,7586.65
+INC0042,2025-03-24,Construction,Julieport,Welder,Drilling,Burn,Arm,Chemical Exposure,Minor,No,Yes,No,2,1335.87
+INC0043,2024-03-01,Oil & Gas,Cynthiaborough,Safety Officer,Inspection,Crush Injury,Hand,Fire,Minor,No,Yes,Yes,5,33753.1
+INC0044,2022-06-03,Oil & Gas,Davidton,Machine Operator,Maintenance,Sprain,Head,Equipment Failure,Minor,Yes,Yes,No,11,8549.58
+INC0045,2023-04-08,Manufacturing,North Donaldberg,Welder,Maintenance,Sprain,Hand,Fall,Minor,Yes,Yes,No,1,27874.44
+INC0046,2024-04-23,Utilities,Annettestad,Safety Officer,Welding,Fracture,Back,Equipment Failure,Minor,Yes,No,No,12,26776.33
+INC0047,2023-03-09,Oil & Gas,Port Jessica,Electrician,Lifting,Fracture,Back,Equipment Failure,Minor,Yes,Yes,No,6,8438.63
+INC0048,2022-05-16,Utilities,West Sharon,Technician,Lifting,Crush Injury,Hand,Chemical Exposure,Minor,No,No,No,2,25303.7
+INC0049,2022-06-05,Utilities,Lake Laura,Technician,Maintenance,Sprain,Back,Human Error,Minor,Yes,No,No,11,25843.23
+INC0050,2024-08-26,Utilities,East Timothy,Technician,Drilling,Fracture,Hand,Fall,Minor,No,No,No,7,36121.39
+INC0051,2024-01-25,Mining,East Lisa,Technician,Lifting,Sprain,Arm,Chemical Exposure,Major,Yes,Yes,No,4,26236.78
+INC0052,2025-02-04,Manufacturing,Paulfort,Welder,Maintenance,Laceration,Foot,Human Error,Minor,Yes,No,No,8,40493.24
+INC0053,2024-10-28,Manufacturing,Laurenmouth,Technician,Drilling,Fracture,Arm,Fire,Minor,No,Yes,No,9,21354.14
+INC0054,2023-04-11,Oil & Gas,North John,Technician,Drilling,Sprain,Head,Human Error,Minor,Yes,Yes,Yes,3,39096.57
+INC0055,2023-05-01,Manufacturing,Lake Natashabury,Technician,Maintenance,Burn,Head,Human Error,Minor,No,No,Yes,10,39759.96
+INC0056,2022-10-21,Construction,Port Jonathanfort,Machine Operator,Inspection,Laceration,Head,Human Error,Minor,No,Yes,No,3,33023.41
+INC0057,2023-03-06,Construction,Natashaland,Safety Officer,Drilling,Laceration,Leg,Fire,Minor,Yes,No,No,4,5742.97
+INC0058,2023-05-27,Oil & Gas,Veronicahaven,Machine Operator,Drilling,Fracture,Foot,Fire,Fatal,No,Yes,No,3,39402.55
+INC0059,2024-07-25,Utilities,West Robertmouth,Technician,Welding,Fracture,Leg,Fall,Major,No,No,Yes,3,28235.53
+INC0060,2025-03-29,Oil & Gas,Port Heatherborough,Technician,Welding,Fracture,Leg,Chemical Exposure,Minor,No,Yes,Yes,11,47473.73
+INC0061,2023-03-24,Manufacturing,New Joshuamouth,Welder,Lifting,Sprain,Arm,Equipment Failure,Minor,No,No,No,12,7908.19
+INC0062,2025-04-08,Manufacturing,North Victoriashire,Technician,Maintenance,Crush Injury,Back,Fire,Minor,No,Yes,Yes,11,21255.29
+INC0063,2023-01-27,Oil & Gas,Lawrenceton,Technician,Welding,Crush Injury,Back,Fall,Minor,No,Yes,Yes,4,27339.32
+INC0064,2022-04-23,Construction,Christinaview,Machine Operator,Inspection,Crush Injury,Arm,Fall,Minor,Yes,Yes,No,4,27886.77
+INC0065,2022-09-14,Oil & Gas,West Jackson,Safety Officer,Welding,Crush Injury,Head,Chemical Exposure,Minor,Yes,Yes,Yes,12,22413.55
+INC0066,2022-12-17,Manufacturing,East Richard,Technician,Drilling,Laceration,Foot,Human Error,Major,Yes,Yes,No,1,39885.79
+INC0067,2023-12-25,Utilities,Port Diana,Safety Officer,Inspection,Sprain,Foot,Human Error,Minor,Yes,Yes,Yes,3,23861.29
+INC0068,2023-07-09,Manufacturing,West Karen,Safety Officer,Welding,Fracture,Foot,Fire,Major,Yes,No,No,4,11981.29
+INC0069,2022-10-27,Utilities,East Parkershire,Welder,Lifting,Crush Injury,Head,Fall,Minor,No,Yes,No,5,20671.25
+INC0070,2023-08-07,Utilities,Phillipsport,Electrician,Welding,Laceration,Head,Human Error,Major,No,Yes,No,5,19366.68
+INC0071,2022-07-24,Utilities,Lake Jonathanton,Technician,Inspection,Burn,Hand,Human Error,Major,Yes,Yes,No,11,11436.77
+INC0072,2023-04-09,Manufacturing,Jessicaburgh,Technician,Drilling,Sprain,Arm,Fire,Fatal,Yes,No,No,4,19290.61
+INC0073,2022-11-06,Utilities,Anthonyport,Machine Operator,Welding,Fracture,Head,Fire,Major,No,No,Yes,6,11185.98
+INC0074,2022-11-21,Mining,Port Emma,Electrician,Drilling,Burn,Leg,Equipment Failure,Major,No,No,No,5,12863.58
+INC0075,2023-06-12,Oil & Gas,Benderborough,Welder,Maintenance,Crush Injury,Back,Fall,Major,Yes,No,Yes,9,26670.51
+INC0076,2024-08-13,Utilities,Port Allisonton,Safety Officer,Maintenance,Fracture,Back,Equipment Failure,Minor,Yes,Yes,Yes,12,30813.16
+INC0077,2023-09-09,Construction,North Jamesport,Machine Operator,Maintenance,Sprain,Leg,Human Error,Minor,Yes,Yes,No,12,2869.96
+INC0078,2025-01-05,Oil & Gas,Lake Scotthaven,Safety Officer,Drilling,Fracture,Arm,Fire,Major,Yes,Yes,Yes,5,9876.67
+INC0079,2022-09-12,Oil & Gas,Paynehaven,Technician,Maintenance,Fracture,Leg,Fire,Minor,No,Yes,No,4,18061.52
+INC0080,2022-11-07,Utilities,Port Joshua,Technician,Welding,Crush Injury,Head,Fire,Major,No,No,No,9,10829.67
+INC0081,2022-09-01,Utilities,Chasemouth,Technician,Welding,Fracture,Leg,Fire,Minor,No,Yes,Yes,8,37900.77
+INC0082,2022-12-09,Utilities,Bryantown,Safety Officer,Drilling,Crush Injury,Hand,Chemical Exposure,Minor,No,Yes,Yes,11,15676.58
+INC0083,2024-06-26,Construction,Julieburgh,Technician,Welding,Laceration,Head,Human Error,Minor,Yes,Yes,Yes,10,8028.64
+INC0084,2022-05-30,Mining,Wallberg,Electrician,Welding,Laceration,Leg,Chemical Exposure,Minor,No,No,Yes,8,558.3
+INC0085,2023-09-30,Manufacturing,South Jamieburgh,Safety Officer,Inspection,Fracture,Foot,Chemical Exposure,Fatal,Yes,Yes,Yes,10,22862.93
+INC0086,2023-05-01,Construction,South Michele,Welder,Welding,Fracture,Arm,Fire,Minor,No,Yes,No,1,47385.92
+INC0087,2024-01-14,Utilities,Lake Jamiestad,Safety Officer,Inspection,Crush Injury,Hand,Fall,Minor,No,Yes,Yes,5,6467.56
+INC0088,2022-05-04,Manufacturing,Elizabethchester,Welder,Welding,Burn,Head,Fire,Minor,Yes,No,No,3,35777.3
+INC0089,2022-07-22,Oil & Gas,New Linda,Technician,Welding,Crush Injury,Leg,Fall,Minor,Yes,No,No,6,48218.84
+INC0090,2024-08-17,Manufacturing,Faulknerbury,Technician,Lifting,Laceration,Foot,Equipment Failure,Minor,No,No,No,2,37975.58
+INC0091,2023-04-19,Mining,Janiceland,Electrician,Welding,Crush Injury,Back,Chemical Exposure,Fatal,No,Yes,No,7,11271.16
+INC0092,2024-03-13,Manufacturing,Lake Cynthia,Safety Officer,Drilling,Burn,Arm,Chemical Exposure,Minor,Yes,No,No,6,18185.83
+INC0093,2024-06-29,Mining,Isabellaland,Technician,Lifting,Sprain,Head,Chemical Exposure,Minor,No,No,Yes,9,34509.84
+INC0094,2024-12-08,Manufacturing,Daltonshire,Welder,Inspection,Burn,Head,Fall,Minor,Yes,No,Yes,10,15137.6
+INC0095,2022-10-05,Manufacturing,South Patrickport,Safety Officer,Welding,Fracture,Hand,Fall,Minor,Yes,Yes,Yes,7,8061.66
+INC0096,2023-02-11,Manufacturing,Johnfurt,Technician,Inspection,Burn,Back,Equipment Failure,Minor,No,No,Yes,2,31029.78
+INC0097,2024-09-23,Manufacturing,North Davidchester,Machine Operator,Drilling,Laceration,Foot,Equipment Failure,Minor,No,Yes,No,1,45158.73
+INC0098,2023-07-01,Manufacturing,North Jillian,Electrician,Lifting,Fracture,Arm,Equipment Failure,Major,Yes,Yes,Yes,12,41905.76
+INC0099,2022-11-07,Mining,Gonzalezton,Welder,Inspection,Burn,Head,Fire,Minor,Yes,Yes,No,3,49046.14
+INC0100,2024-08-28,Oil & Gas,New Jenniferside,Electrician,Inspection,Sprain,Head,Equipment Failure,Minor,Yes,No,Yes,6,45372.29
+INC0101,2023-12-23,Construction,North Teresa,Electrician,Drilling,Sprain,Back,Human Error,Minor,No,Yes,No,9,49857.47
+INC0102,2022-06-09,Oil & Gas,Villarrealview,Welder,Inspection,Burn,Arm,Chemical Exposure,Minor,Yes,No,Yes,10,38792.23
+INC0103,2025-01-21,Mining,West Erik,Machine Operator,Welding,Sprain,Head,Human Error,Minor,Yes,No,Yes,9,34598.82
+INC0104,2023-10-25,Construction,Ryanside,Safety Officer,Lifting,Crush Injury,Leg,Human Error,Minor,No,Yes,Yes,2,4334.72
+INC0105,2024-04-13,Construction,South Williamview,Safety Officer,Maintenance,Crush Injury,Hand,Human Error,Minor,No,No,No,10,39362.48
+INC0106,2022-06-07,Construction,Lake Katherine,Electrician,Maintenance,Fracture,Arm,Equipment Failure,Major,Yes,Yes,No,4,26215.13
+INC0107,2023-01-05,Oil & Gas,Proctorborough,Safety Officer,Drilling,Laceration,Arm,Equipment Failure,Major,Yes,No,No,8,10934.12
+INC0108,2025-01-21,Manufacturing,North Ashleyview,Welder,Drilling,Fracture,Foot,Chemical Exposure,Major,Yes,Yes,Yes,2,2227.16
+INC0109,2022-09-26,Construction,Cartershire,Electrician,Maintenance,Sprain,Head,Fire,Minor,No,Yes,No,5,46014.27
+INC0110,2023-09-15,Oil & Gas,Martinezbury,Safety Officer,Inspection,Burn,Back,Fire,Minor,No,Yes,Yes,3,15406.07
+INC0111,2023-08-14,Oil & Gas,Flynnborough,Machine Operator,Inspection,Crush Injury,Back,Chemical Exposure,Minor,Yes,No,No,8,41505.89
+INC0112,2023-08-24,Oil & Gas,South Michaelaton,Technician,Inspection,Sprain,Back,Fall,Minor,Yes,Yes,Yes,5,23188.9
+INC0113,2024-03-09,Oil & Gas,North Alexis,Machine Operator,Lifting,Burn,Leg,Fire,Major,No,Yes,No,12,28606.67
+INC0114,2022-05-04,Mining,Flemingborough,Technician,Drilling,Laceration,Leg,Fall,Minor,Yes,Yes,No,2,7041.26
+INC0115,2024-01-13,Construction,West Shelby,Electrician,Inspection,Laceration,Arm,Equipment Failure,Major,Yes,No,Yes,7,48191.8
+INC0116,2024-06-24,Manufacturing,Port Anaburgh,Welder,Lifting,Laceration,Arm,Human Error,Minor,Yes,Yes,No,7,14777.63
+INC0117,2023-03-25,Manufacturing,Garciafurt,Welder,Inspection,Burn,Head,Fall,Major,Yes,Yes,Yes,10,43369.59
+INC0118,2023-08-21,Manufacturing,Lake Leonard,Machine Operator,Drilling,Fracture,Back,Human Error,Major,Yes,Yes,Yes,9,49997.42
+INC0119,2023-06-08,Manufacturing,West Matthewmouth,Technician,Welding,Crush Injury,Arm,Chemical Exposure,Minor,No,No,Yes,6,41482.35
+INC0120,2022-12-10,Mining,Evansbury,Safety Officer,Drilling,Crush Injury,Head,Chemical Exposure,Major,Yes,Yes,Yes,5,36496.92
+INC0121,2023-05-01,Construction,Meyerland,Technician,Maintenance,Burn,Head,Fire,Major,Yes,Yes,Yes,1,43531.38
+INC0122,2024-05-11,Mining,South Devin,Electrician,Drilling,Burn,Arm,Equipment Failure,Minor,No,No,No,7,7590.47
+INC0123,2023-06-21,Oil & Gas,Port Matthewport,Technician,Drilling,Sprain,Leg,Fall,Minor,Yes,No,No,1,32345.73
+INC0124,2023-08-30,Manufacturing,Davischester,Safety Officer,Maintenance,Sprain,Arm,Chemical Exposure,Major,Yes,No,Yes,6,2330.23
+INC0125,2024-04-22,Mining,East Thomas,Technician,Lifting,Crush Injury,Arm,Equipment Failure,Minor,Yes,No,No,4,768.75
+INC0126,2023-12-17,Oil & Gas,Michealmouth,Safety Officer,Welding,Sprain,Arm,Fall,Minor,No,Yes,Yes,2,49346.66
+INC0127,2024-02-12,Construction,Karenchester,Machine Operator,Maintenance,Laceration,Arm,Human Error,Major,Yes,No,Yes,12,16564.56
+INC0128,2022-08-28,Construction,Cochranmouth,Safety Officer,Welding,Fracture,Arm,Fire,Minor,Yes,No,No,10,22709.1
+INC0129,2022-05-27,Mining,Anthonyton,Safety Officer,Maintenance,Sprain,Foot,Equipment Failure,Minor,No,Yes,No,5,8135.26
+INC0130,2023-04-24,Construction,West Raven,Safety Officer,Maintenance,Sprain,Back,Chemical Exposure,Major,No,Yes,Yes,6,28547.94
+INC0131,2023-10-25,Mining,Lake Davidland,Electrician,Drilling,Crush Injury,Leg,Fire,Major,No,Yes,Yes,9,14493.04
+INC0132,2023-10-09,Manufacturing,Kevinland,Welder,Maintenance,Laceration,Arm,Chemical Exposure,Major,Yes,Yes,Yes,2,14677.64
+INC0133,2022-06-27,Oil & Gas,Rogershaven,Welder,Maintenance,Burn,Leg,Fall,Major,No,Yes,Yes,5,23675.9
+INC0134,2023-10-30,Oil & Gas,East Joseph,Technician,Lifting,Crush Injury,Arm,Human Error,Minor,Yes,Yes,No,12,18373.76
+INC0135,2022-11-29,Mining,Port Michelleton,Safety Officer,Lifting,Sprain,Head,Chemical Exposure,Minor,No,No,Yes,4,18203.47
+INC0136,2024-08-28,Mining,New Jacqueline,Electrician,Inspection,Burn,Arm,Chemical Exposure,Minor,No,Yes,Yes,9,7895.9
+INC0137,2023-05-18,Utilities,Reneeshire,Electrician,Maintenance,Sprain,Foot,Fire,Minor,Yes,No,Yes,11,20985.98
+INC0138,2023-12-18,Manufacturing,Alexisside,Technician,Lifting,Sprain,Head,Fall,Minor,No,No,Yes,3,21983.18
+INC0139,2023-01-05,Mining,Davidside,Safety Officer,Lifting,Crush Injury,Arm,Chemical Exposure,Fatal,No,Yes,No,7,22150.98
+INC0140,2024-03-07,Mining,Brendamouth,Electrician,Drilling,Crush Injury,Head,Fall,Fatal,Yes,No,Yes,1,37837.07
+INC0141,2022-08-29,Utilities,Deborahberg,Electrician,Drilling,Fracture,Back,Human Error,Minor,Yes,No,No,6,21360.34
+INC0142,2023-07-04,Mining,North Craig,Machine Operator,Drilling,Crush Injury,Head,Equipment Failure,Minor,Yes,No,Yes,9,28171.84
+INC0143,2023-06-16,Utilities,Port Michaelchester,Welder,Drilling,Burn,Foot,Chemical Exposure,Minor,No,No,Yes,7,44949.63
+INC0144,2023-01-04,Utilities,Lake Michael,Technician,Drilling,Crush Injury,Leg,Equipment Failure,Major,Yes,Yes,No,5,30915.72
+INC0145,2024-09-05,Utilities,Leahland,Electrician,Welding,Crush Injury,Back,Fall,Major,No,Yes,No,4,19875.58
+INC0146,2024-08-17,Manufacturing,Pittsburgh,Safety Officer,Lifting,Fracture,Back,Fire,Major,Yes,Yes,No,4,40091.51
+INC0147,2023-10-17,Construction,West Lindamouth,Machine Operator,Lifting,Crush Injury,Foot,Fire,Major,Yes,Yes,Yes,11,48846.6
+INC0148,2024-09-27,Construction,Margaretville,Electrician,Maintenance,Burn,Hand,Equipment Failure,Minor,Yes,Yes,No,2,23251.92
+INC0149,2023-04-30,Utilities,Joannfurt,Welder,Lifting,Sprain,Hand,Equipment Failure,Major,No,No,Yes,9,26183.82
+INC0150,2024-02-05,Utilities,Millerborough,Electrician,Maintenance,Burn,Foot,Fall,Minor,Yes,Yes,Yes,9,29358.89
+INC0151,2022-09-17,Utilities,Lake David,Safety Officer,Drilling,Crush Injury,Arm,Equipment Failure,Minor,Yes,Yes,No,9,1933.86
+INC0152,2022-05-31,Mining,Derricktown,Welder,Lifting,Fracture,Leg,Fall,Minor,Yes,Yes,No,6,15517.97
+INC0153,2025-04-10,Manufacturing,Port Glenn,Welder,Lifting,Crush Injury,Leg,Fire,Minor,No,Yes,Yes,10,15309.89
+INC0154,2023-04-29,Manufacturing,North Darleneside,Technician,Welding,Crush Injury,Leg,Chemical Exposure,Major,No,No,No,4,26126.28
+INC0155,2023-02-12,Manufacturing,New Jody,Electrician,Maintenance,Burn,Leg,Fall,Major,No,Yes,No,8,22121.9
+INC0156,2024-12-31,Utilities,Port Alyssashire,Technician,Maintenance,Fracture,Arm,Fall,Fatal,Yes,No,No,12,5733.0
+INC0157,2022-09-24,Manufacturing,Peterport,Welder,Maintenance,Fracture,Arm,Chemical Exposure,Major,Yes,No,Yes,6,18978.2
+INC0158,2024-03-16,Oil & Gas,Jeffersonborough,Technician,Maintenance,Laceration,Back,Human Error,Fatal,No,No,No,9,17701.83
+INC0159,2024-12-09,Mining,West Michaelmouth,Electrician,Lifting,Crush Injury,Back,Human Error,Major,No,Yes,No,12,16838.22
+INC0160,2022-08-29,Manufacturing,Cantrellchester,Electrician,Welding,Crush Injury,Arm,Human Error,Minor,No,Yes,Yes,4,16277.17
+INC0161,2023-01-22,Utilities,West Meganfurt,Welder,Drilling,Sprain,Arm,Fire,Minor,No,No,No,1,14237.68
+INC0162,2023-12-24,Utilities,New John,Safety Officer,Welding,Fracture,Leg,Fall,Minor,No,Yes,No,3,34209.68
+INC0163,2025-03-14,Manufacturing,Newtonville,Welder,Lifting,Burn,Back,Chemical Exposure,Minor,Yes,No,No,12,17309.99
+INC0164,2025-04-09,Oil & Gas,West Coreymouth,Technician,Maintenance,Laceration,Back,Equipment Failure,Minor,No,No,Yes,8,8593.12
+INC0165,2022-07-24,Mining,West Eric,Welder,Lifting,Burn,Foot,Equipment Failure,Major,No,Yes,No,7,39540.97
+INC0166,2023-10-07,Manufacturing,Melodyborough,Technician,Welding,Laceration,Leg,Human Error,Minor,Yes,Yes,No,7,36157.11
+INC0167,2024-12-02,Utilities,Edwardfurt,Technician,Inspection,Burn,Foot,Equipment Failure,Major,No,No,Yes,4,34060.58
+INC0168,2023-03-24,Mining,Port Robin,Safety Officer,Lifting,Crush Injury,Arm,Equipment Failure,Minor,No,Yes,No,11,19705.74
+INC0169,2023-11-06,Manufacturing,New Davidberg,Machine Operator,Inspection,Fracture,Leg,Fall,Major,Yes,Yes,No,8,23761.94
+INC0170,2023-04-02,Utilities,New Jonathantown,Technician,Drilling,Fracture,Back,Equipment Failure,Major,Yes,Yes,No,4,24302.84
+INC0171,2022-12-10,Construction,New Samantha,Welder,Maintenance,Burn,Hand,Human Error,Major,No,Yes,No,8,25745.05
+INC0172,2022-08-13,Manufacturing,East Danielberg,Safety Officer,Drilling,Crush Injury,Back,Fall,Minor,Yes,No,No,1,23447.97
+INC0173,2023-08-06,Construction,Lake Omar,Electrician,Welding,Fracture,Back,Chemical Exposure,Fatal,Yes,No,Yes,5,47542.68
+INC0174,2022-05-31,Oil & Gas,Port Timothy,Electrician,Lifting,Sprain,Hand,Chemical Exposure,Major,Yes,Yes,Yes,4,36460.72
+INC0175,2022-09-21,Utilities,Mcphersonfurt,Electrician,Drilling,Laceration,Hand,Equipment Failure,Fatal,No,No,No,4,10331.75
+INC0176,2024-10-16,Oil & Gas,Maddentown,Welder,Lifting,Laceration,Hand,Fall,Minor,No,Yes,No,7,45181.62
+INC0177,2024-02-22,Utilities,Joneshaven,Safety Officer,Inspection,Laceration,Arm,Fall,Minor,No,No,Yes,1,25685.12
+INC0178,2023-02-14,Mining,Andrewmouth,Safety Officer,Inspection,Sprain,Foot,Fall,Minor,Yes,No,Yes,12,24992.75
+INC0179,2023-03-22,Manufacturing,West Brandon,Machine Operator,Drilling,Sprain,Arm,Human Error,Minor,No,Yes,No,3,44348.95
+INC0180,2023-08-11,Oil & Gas,North David,Technician,Drilling,Crush Injury,Back,Human Error,Major,Yes,Yes,Yes,4,11380.8
+INC0181,2024-05-15,Manufacturing,Lake Caleb,Safety Officer,Inspection,Burn,Back,Human Error,Major,Yes,Yes,No,11,15238.16
+INC0182,2022-10-06,Manufacturing,Walterburgh,Technician,Lifting,Crush Injury,Hand,Fall,Minor,No,No,No,10,23561.11
+INC0183,2024-11-03,Mining,Lake Angelamouth,Welder,Inspection,Burn,Foot,Fire,Major,No,No,Yes,11,14973.05
+INC0184,2025-04-18,Manufacturing,Longview,Welder,Lifting,Sprain,Head,Human Error,Fatal,Yes,Yes,Yes,2,853.28
+INC0185,2024-03-30,Mining,Andrewbury,Safety Officer,Maintenance,Laceration,Hand,Chemical Exposure,Major,Yes,No,Yes,10,43031.82
+INC0186,2024-03-23,Mining,West Dennismouth,Safety Officer,Welding,Laceration,Arm,Human Error,Fatal,Yes,No,Yes,3,4735.52
+INC0187,2022-06-28,Utilities,Arnoldberg,Technician,Inspection,Fracture,Head,Equipment Failure,Major,No,No,No,11,21003.53
+INC0188,2024-01-31,Construction,Michaelbury,Machine Operator,Maintenance,Sprain,Hand,Fall,Minor,No,No,No,8,28561.65
+INC0189,2025-03-15,Manufacturing,Jonesmouth,Electrician,Drilling,Fracture,Leg,Chemical Exposure,Minor,No,No,Yes,10,25582.75
+INC0190,2025-02-19,Manufacturing,Newmanfurt,Technician,Lifting,Crush Injury,Leg,Chemical Exposure,Minor,No,No,Yes,1,10981.65
+INC0191,2022-10-27,Oil & Gas,Rossfort,Safety Officer,Inspection,Crush Injury,Foot,Fall,Minor,No,Yes,Yes,6,2255.11
+INC0192,2024-11-16,Construction,East Natalie,Welder,Maintenance,Burn,Head,Chemical Exposure,Minor,No,Yes,Yes,12,11540.95
+INC0193,2024-09-10,Oil & Gas,East Richard,Electrician,Lifting,Laceration,Foot,Human Error,Minor,No,No,No,2,35337.8
+INC0194,2023-07-16,Construction,North Lisa,Machine Operator,Drilling,Fracture,Hand,Human Error,Minor,No,No,Yes,4,1033.24
+INC0195,2023-04-20,Mining,East Annefurt,Machine Operator,Drilling,Fracture,Arm,Human Error,Minor,Yes,Yes,Yes,8,27211.26
+INC0196,2022-09-15,Oil & Gas,Christophertown,Electrician,Welding,Crush Injury,Head,Fall,Minor,No,No,No,8,23896.27
+INC0197,2022-09-22,Mining,West Brian,Safety Officer,Lifting,Burn,Back,Human Error,Minor,Yes,Yes,No,3,37008.32
+INC0198,2024-12-07,Manufacturing,North Diana,Machine Operator,Maintenance,Fracture,Arm,Chemical Exposure,Minor,No,Yes,No,1,44853.06
+INC0199,2024-03-16,Mining,Morrisview,Machine Operator,Lifting,Crush Injury,Hand,Equipment Failure,Minor,No,No,No,7,40732.92
+INC0200,2023-11-21,Mining,North Thomashaven,Technician,Inspection,Fracture,Foot,Fall,Minor,Yes,Yes,No,10,49986.5
+INC0201,2024-02-17,Oil & Gas,Gonzaleshaven,Electrician,Drilling,Crush Injury,Leg,Chemical Exposure,Minor,No,Yes,Yes,2,30656.37
+INC0202,2024-02-11,Oil & Gas,New Jesseton,Welder,Lifting,Laceration,Back,Equipment Failure,Minor,Yes,Yes,No,11,11588.5
+INC0203,2022-11-19,Mining,West Charles,Technician,Drilling,Laceration,Hand,Chemical Exposure,Minor,Yes,No,Yes,4,16773.47
+INC0204,2024-02-03,Mining,Underwoodland,Technician,Lifting,Laceration,Back,Human Error,Minor,Yes,No,No,5,13776.47
+INC0205,2024-04-06,Utilities,New Mirandafurt,Technician,Inspection,Sprain,Arm,Equipment Failure,Minor,No,No,Yes,7,36444.15
+INC0206,2022-06-21,Manufacturing,Smithburgh,Technician,Welding,Sprain,Foot,Fall,Minor,No,Yes,Yes,5,48050.87
+INC0207,2022-09-04,Utilities,South Carmenmouth,Electrician,Lifting,Fracture,Hand,Human Error,Minor,No,Yes,Yes,6,20455.56
+INC0208,2024-02-16,Utilities,East Benjaminport,Electrician,Drilling,Laceration,Leg,Fire,Major,Yes,Yes,No,3,46337.39
+INC0209,2022-07-26,Utilities,East Heatherland,Welder,Welding,Crush Injury,Head,Fire,Minor,No,No,No,7,23771.36
+INC0210,2024-06-10,Utilities,North James,Welder,Welding,Fracture,Arm,Human Error,Minor,Yes,No,Yes,5,13441.53
+INC0211,2024-06-03,Mining,Stevensfurt,Welder,Maintenance,Laceration,Head,Fall,Major,Yes,No,Yes,4,37334.71
+INC0212,2022-08-29,Utilities,North Hannah,Machine Operator,Maintenance,Sprain,Back,Fire,Minor,Yes,No,Yes,6,38135.52
+INC0213,2023-02-19,Oil & Gas,Rebeccastad,Technician,Maintenance,Burn,Back,Fall,Major,Yes,No,No,12,34514.74
+INC0214,2023-09-20,Manufacturing,Lake Jeffrey,Electrician,Drilling,Crush Injury,Leg,Equipment Failure,Fatal,No,No,Yes,12,10782.66
+INC0215,2023-04-17,Construction,Lake Sarafort,Safety Officer,Drilling,Sprain,Arm,Chemical Exposure,Minor,Yes,No,No,7,27757.79
+INC0216,2023-11-07,Mining,East Jeffrey,Technician,Welding,Laceration,Hand,Human Error,Fatal,No,Yes,Yes,7,37110.61
+INC0217,2022-11-11,Oil & Gas,Destinychester,Technician,Lifting,Laceration,Hand,Fall,Major,Yes,No,No,12,40452.73
+INC0218,2023-10-01,Construction,Lake Vickieshire,Safety Officer,Lifting,Burn,Leg,Fall,Minor,Yes,No,Yes,8,42262.17
+INC0219,2023-05-06,Manufacturing,Johnnymouth,Technician,Lifting,Laceration,Foot,Equipment Failure,Major,No,No,Yes,8,45764.07
+INC0220,2024-02-21,Oil & Gas,Lindabury,Electrician,Drilling,Burn,Hand,Human Error,Major,No,Yes,No,9,12268.52
+INC0221,2023-07-07,Construction,Lake Ambertown,Welder,Lifting,Crush Injury,Hand,Chemical Exposure,Major,Yes,No,No,1,39219.39
+INC0222,2022-09-05,Oil & Gas,Autumnville,Welder,Drilling,Laceration,Arm,Human Error,Minor,No,No,No,1,36489.83
+INC0223,2023-06-28,Utilities,Aaronberg,Electrician,Lifting,Sprain,Back,Fall,Minor,Yes,No,No,2,23460.82
+INC0224,2022-08-12,Utilities,South Davidchester,Machine Operator,Lifting,Burn,Foot,Equipment Failure,Minor,Yes,No,Yes,12,38100.44
+INC0225,2022-07-25,Utilities,Jennaville,Safety Officer,Lifting,Crush Injury,Arm,Equipment Failure,Major,Yes,Yes,No,11,36736.87
+INC0226,2023-07-13,Manufacturing,Michaelstad,Safety Officer,Drilling,Burn,Head,Fall,Minor,Yes,No,No,10,48007.14
+INC0227,2024-03-26,Oil & Gas,Pollardberg,Safety Officer,Maintenance,Sprain,Leg,Chemical Exposure,Minor,Yes,Yes,No,5,37806.94
+INC0228,2022-10-26,Mining,Lisaside,Safety Officer,Inspection,Burn,Head,Chemical Exposure,Minor,No,No,Yes,7,29692.33
+INC0229,2024-04-27,Oil & Gas,North Jimmy,Electrician,Drilling,Burn,Back,Fire,Minor,No,Yes,No,12,17665.92
+INC0230,2023-12-12,Construction,East Lindsey,Technician,Maintenance,Fracture,Head,Equipment Failure,Major,Yes,Yes,No,1,4389.9
+INC0231,2025-04-10,Construction,East Jessicahaven,Electrician,Maintenance,Sprain,Arm,Fire,Major,Yes,No,No,9,10056.39
+INC0232,2025-04-06,Manufacturing,Michelleburgh,Machine Operator,Lifting,Sprain,Arm,Fall,Minor,No,Yes,No,5,32406.86
+INC0233,2022-09-30,Manufacturing,Lake Amy,Electrician,Welding,Laceration,Hand,Human Error,Minor,Yes,Yes,No,8,45838.1
+INC0234,2022-12-13,Construction,North Elizabeth,Technician,Drilling,Crush Injury,Leg,Equipment Failure,Minor,No,Yes,Yes,6,5658.24
+INC0235,2025-03-24,Construction,New Ann,Machine Operator,Maintenance,Burn,Head,Equipment Failure,Minor,Yes,No,No,4,15941.88
+INC0236,2022-11-16,Utilities,Lake Ryan,Welder,Inspection,Laceration,Head,Fire,Major,No,No,No,12,27215.69
+INC0237,2023-04-09,Mining,North Bethany,Safety Officer,Welding,Crush Injury,Hand,Equipment Failure,Minor,Yes,No,No,12,27145.36
+INC0238,2024-05-15,Manufacturing,North Lisaport,Technician,Maintenance,Laceration,Head,Chemical Exposure,Major,Yes,No,No,10,6384.96
+INC0239,2023-04-23,Utilities,East Steven,Technician,Inspection,Sprain,Head,Fall,Minor,No,Yes,Yes,11,12818.03
+INC0240,2024-08-07,Oil & Gas,North Anaton,Electrician,Drilling,Sprain,Arm,Human Error,Minor,No,No,Yes,10,31115.71
+INC0241,2023-10-05,Manufacturing,North Chrisfurt,Welder,Inspection,Burn,Back,Fire,Minor,No,Yes,Yes,9,30582.43
+INC0242,2023-12-19,Construction,Darrenchester,Safety Officer,Welding,Fracture,Back,Fire,Minor,Yes,No,No,1,28478.02
+INC0243,2022-11-03,Manufacturing,Stevenberg,Electrician,Welding,Laceration,Leg,Fire,Major,No,Yes,No,4,18507.35
+INC0244,2025-04-09,Construction,North Lorimouth,Machine Operator,Maintenance,Burn,Hand,Chemical Exposure,Minor,Yes,Yes,Yes,1,14204.79
+INC0245,2023-10-14,Mining,Vanessaside,Technician,Lifting,Crush Injury,Arm,Fall,Fatal,Yes,Yes,Yes,9,41490.56
+INC0246,2024-03-04,Mining,New Sandraport,Safety Officer,Welding,Crush Injury,Leg,Chemical Exposure,Minor,No,Yes,No,11,32782.15
+INC0247,2023-07-26,Utilities,Port Carolyn,Machine Operator,Maintenance,Crush Injury,Hand,Fire,Major,Yes,No,Yes,11,21779.93
+INC0248,2023-04-14,Manufacturing,Port Michael,Machine Operator,Inspection,Crush Injury,Foot,Human Error,Minor,No,No,No,1,48007.92
+INC0249,2023-01-31,Oil & Gas,Rebeccatown,Electrician,Inspection,Laceration,Arm,Human Error,Minor,No,No,No,8,16704.82
+INC0250,2023-01-18,Manufacturing,Williamston,Technician,Inspection,Sprain,Hand,Fall,Minor,No,No,No,11,5254.95
+INC0251,2025-04-15,Manufacturing,Mcintoshberg,Welder,Maintenance,Laceration,Arm,Chemical Exposure,Minor,Yes,No,Yes,7,14746.3
+INC0252,2023-07-07,Mining,Danielleport,Safety Officer,Welding,Burn,Hand,Human Error,Major,No,No,Yes,7,37282.97
+INC0253,2023-05-25,Oil & Gas,Ronaldhaven,Welder,Inspection,Laceration,Head,Fire,Minor,Yes,No,No,12,35468.16
+INC0254,2022-06-15,Construction,Andrewsfurt,Technician,Drilling,Burn,Arm,Fire,Minor,Yes,Yes,Yes,2,3329.47
+INC0255,2024-11-21,Mining,South Kellyhaven,Technician,Drilling,Crush Injury,Hand,Fall,Major,No,Yes,No,2,9881.26
+INC0256,2024-08-17,Mining,Smithshire,Welder,Welding,Fracture,Foot,Chemical Exposure,Major,No,Yes,Yes,10,35842.87
+INC0257,2024-09-04,Oil & Gas,Williamsshire,Safety Officer,Lifting,Burn,Arm,Fire,Minor,No,No,No,2,23911.71
+INC0258,2024-05-08,Oil & Gas,Kathleentown,Machine Operator,Inspection,Sprain,Arm,Equipment Failure,Minor,No,Yes,Yes,6,19543.8
+INC0259,2023-04-02,Utilities,South William,Electrician,Welding,Sprain,Back,Chemical Exposure,Minor,No,Yes,Yes,3,12550.95
+INC0260,2023-02-12,Oil & Gas,Lake Shannonfurt,Technician,Welding,Laceration,Hand,Fall,Fatal,Yes,No,No,5,38929.34
+INC0261,2025-01-10,Construction,North Alexandra,Electrician,Welding,Fracture,Leg,Fall,Fatal,No,No,No,1,8601.93
+INC0262,2024-08-13,Construction,New Douglasstad,Machine Operator,Lifting,Burn,Leg,Chemical Exposure,Major,No,Yes,Yes,12,32992.96
+INC0263,2022-07-20,Manufacturing,Barbaraberg,Technician,Maintenance,Sprain,Foot,Fall,Major,Yes,Yes,No,4,3195.88
+INC0264,2023-03-25,Construction,Lake Micheleburgh,Machine Operator,Lifting,Fracture,Foot,Equipment Failure,Minor,Yes,Yes,No,4,36797.98
+INC0265,2023-05-19,Utilities,West Tracy,Machine Operator,Maintenance,Laceration,Hand,Human Error,Minor,No,No,Yes,3,41256.41
+INC0266,2023-03-12,Utilities,Robinsonburgh,Electrician,Maintenance,Burn,Back,Equipment Failure,Minor,No,No,Yes,12,49228.41
+INC0267,2023-07-04,Utilities,Lake Victorfurt,Welder,Lifting,Laceration,Head,Fall,Fatal,Yes,No,Yes,12,9044.86
+INC0268,2022-06-16,Manufacturing,East Brad,Electrician,Lifting,Crush Injury,Foot,Chemical Exposure,Minor,No,No,No,1,40622.73
+INC0269,2022-05-22,Manufacturing,Garytown,Technician,Inspection,Crush Injury,Leg,Human Error,Minor,Yes,No,Yes,12,5179.72
+INC0270,2023-08-20,Manufacturing,Colemouth,Machine Operator,Inspection,Laceration,Leg,Equipment Failure,Minor,No,No,No,4,1502.85
+INC0271,2022-08-29,Utilities,Reyesview,Safety Officer,Inspection,Laceration,Head,Chemical Exposure,Minor,No,Yes,No,5,19157.96
+INC0272,2023-03-28,Mining,Aaronport,Safety Officer,Drilling,Laceration,Head,Chemical Exposure,Minor,Yes,Yes,Yes,10,46725.62
+INC0273,2025-01-29,Oil & Gas,Penafurt,Electrician,Drilling,Sprain,Leg,Fall,Minor,No,No,No,7,39130.64
+INC0274,2023-05-28,Utilities,Maldonadomouth,Electrician,Welding,Laceration,Arm,Fire,Minor,No,No,Yes,6,14112.5
+INC0275,2023-08-09,Utilities,Nelsonborough,Electrician,Inspection,Burn,Hand,Fall,Minor,Yes,No,Yes,5,10059.99
+INC0276,2022-05-08,Utilities,Port Meganshire,Welder,Welding,Sprain,Arm,Equipment Failure,Major,No,Yes,Yes,11,35534.93
+INC0277,2025-02-19,Construction,Lake Angelside,Electrician,Maintenance,Fracture,Foot,Chemical Exposure,Minor,No,Yes,Yes,5,32118.69
+INC0278,2023-12-31,Manufacturing,Wolfview,Welder,Drilling,Laceration,Foot,Chemical Exposure,Major,Yes,Yes,Yes,3,15537.15
+INC0279,2024-12-05,Utilities,Spearsview,Electrician,Welding,Fracture,Back,Fire,Fatal,No,Yes,Yes,5,39500.82
+INC0280,2022-05-08,Construction,Lake Emma,Welder,Maintenance,Sprain,Foot,Equipment Failure,Minor,Yes,No,Yes,4,27182.05
+INC0281,2022-10-24,Manufacturing,Pamelaberg,Electrician,Lifting,Laceration,Leg,Fall,Major,No,No,No,3,9737.31
+INC0282,2023-01-12,Manufacturing,South Carrie,Machine Operator,Lifting,Fracture,Hand,Fire,Minor,Yes,Yes,No,11,18853.44
+INC0283,2024-06-28,Oil & Gas,West Thomas,Welder,Drilling,Crush Injury,Foot,Equipment Failure,Major,No,No,Yes,5,18065.86
+INC0284,2022-09-26,Construction,North Matthew,Machine Operator,Welding,Laceration,Leg,Chemical Exposure,Minor,Yes,No,No,9,20661.96
+INC0285,2023-09-13,Manufacturing,Lake Tammyfurt,Machine Operator,Lifting,Burn,Head,Chemical Exposure,Minor,No,Yes,No,1,21155.53
+INC0286,2023-07-15,Mining,North Rebeccaberg,Machine Operator,Inspection,Burn,Leg,Human Error,Major,Yes,No,No,12,30844.14
+INC0287,2025-03-25,Manufacturing,East Timothyberg,Machine Operator,Drilling,Laceration,Arm,Chemical Exposure,Major,No,No,No,4,30840.47
+INC0288,2023-06-13,Oil & Gas,East Tammy,Technician,Inspection,Crush Injury,Leg,Equipment Failure,Fatal,Yes,No,No,10,28897.54
+INC0289,2024-10-03,Mining,Jonesland,Welder,Welding,Sprain,Head,Human Error,Major,Yes,Yes,Yes,1,33784.33
+INC0290,2024-02-12,Construction,South Anthony,Machine Operator,Welding,Laceration,Foot,Fall,Minor,No,No,Yes,11,39060.08
+INC0291,2022-05-16,Oil & Gas,Nicholasborough,Technician,Lifting,Crush Injury,Leg,Chemical Exposure,Minor,Yes,No,No,11,14336.02
+INC0292,2023-05-24,Mining,West Edward,Machine Operator,Inspection,Crush Injury,Arm,Human Error,Minor,Yes,No,No,11,16764.12
+INC0293,2025-01-27,Construction,Manningside,Safety Officer,Inspection,Crush Injury,Hand,Fall,Minor,No,No,No,1,43341.0
+INC0294,2023-04-13,Manufacturing,South Joshua,Technician,Inspection,Sprain,Leg,Equipment Failure,Minor,Yes,Yes,Yes,4,22966.48
+INC0295,2023-10-31,Mining,Tranmouth,Welder,Maintenance,Laceration,Back,Equipment Failure,Major,Yes,No,No,11,11774.88
+INC0296,2025-02-27,Utilities,North Kevinland,Safety Officer,Welding,Burn,Foot,Chemical Exposure,Minor,Yes,No,No,6,10539.62
+INC0297,2022-11-02,Utilities,East Christopher,Technician,Drilling,Fracture,Foot,Equipment Failure,Major,No,No,Yes,2,35403.91
+INC0298,2024-10-27,Manufacturing,North Ruth,Safety Officer,Inspection,Fracture,Head,Equipment Failure,Major,No,Yes,Yes,12,5392.83
+INC0299,2022-06-19,Oil & Gas,South Thomas,Safety Officer,Welding,Crush Injury,Back,Chemical Exposure,Major,Yes,No,Yes,9,12368.42
+INC0300,2022-12-21,Manufacturing,North Wandafort,Welder,Maintenance,Fracture,Arm,Fire,Minor,No,Yes,Yes,5,18266.22
+INC0301,2024-01-02,Mining,Lake Pamela,Welder,Welding,Crush Injury,Hand,Chemical Exposure,Minor,Yes,No,Yes,8,47146.4
+INC0302,2023-05-23,Mining,Mackton,Welder,Lifting,Sprain,Head,Human Error,Fatal,No,Yes,Yes,1,45735.62
+INC0303,2025-02-26,Manufacturing,Josephmouth,Safety Officer,Inspection,Laceration,Arm,Fire,Fatal,No,Yes,No,9,21855.16
+INC0304,2024-03-04,Oil & Gas,Port Candicestad,Safety Officer,Lifting,Sprain,Leg,Equipment Failure,Major,Yes,Yes,Yes,3,40856.1
+INC0305,2024-09-11,Oil & Gas,Port Dennis,Safety Officer,Drilling,Sprain,Leg,Chemical Exposure,Minor,Yes,Yes,No,10,16661.25
+INC0306,2022-07-04,Manufacturing,Lunatown,Welder,Drilling,Sprain,Head,Chemical Exposure,Minor,No,No,Yes,8,11361.04
+INC0307,2024-09-17,Mining,Lake Deanhaven,Safety Officer,Maintenance,Laceration,Head,Equipment Failure,Major,No,No,No,3,21415.72
+INC0308,2024-09-01,Utilities,Castrostad,Welder,Maintenance,Burn,Hand,Fire,Fatal,No,Yes,No,6,6578.92
+INC0309,2025-04-17,Mining,Lauraland,Welder,Lifting,Burn,Leg,Chemical Exposure,Minor,Yes,No,Yes,1,41434.1
+INC0310,2023-11-04,Oil & Gas,Freyview,Electrician,Drilling,Burn,Back,Fire,Minor,No,No,Yes,4,3560.01
+INC0311,2025-01-23,Oil & Gas,Leeland,Machine Operator,Lifting,Fracture,Leg,Fire,Minor,Yes,No,Yes,12,28236.92
+INC0312,2023-09-26,Manufacturing,New John,Electrician,Drilling,Crush Injury,Foot,Fire,Minor,Yes,No,Yes,3,29446.02
+INC0313,2022-11-28,Utilities,Alyssaton,Technician,Drilling,Laceration,Arm,Chemical Exposure,Minor,Yes,Yes,No,2,13439.99
+INC0314,2023-05-23,Oil & Gas,Port Ian,Electrician,Inspection,Fracture,Back,Equipment Failure,Minor,No,Yes,Yes,5,19539.36
+INC0315,2023-12-31,Utilities,New Michaelchester,Electrician,Lifting,Crush Injury,Arm,Human Error,Major,No,No,No,9,37576.53
+INC0316,2024-07-05,Manufacturing,Port Barbaraberg,Welder,Lifting,Sprain,Foot,Equipment Failure,Minor,No,No,Yes,1,28988.85
+INC0317,2024-06-21,Manufacturing,South Andrewfort,Technician,Inspection,Burn,Foot,Fire,Minor,Yes,No,No,5,8595.93
+INC0318,2022-10-27,Manufacturing,Lake Janicemouth,Electrician,Welding,Burn,Foot,Fall,Fatal,Yes,No,Yes,12,25335.18
+INC0319,2022-08-07,Oil & Gas,New Joshua,Welder,Drilling,Crush Injury,Arm,Chemical Exposure,Minor,No,Yes,Yes,1,2942.99
+INC0320,2024-10-31,Construction,North Brandy,Electrician,Lifting,Burn,Hand,Human Error,Minor,Yes,No,No,12,13869.32
+INC0321,2023-05-16,Manufacturing,Christianville,Welder,Welding,Sprain,Back,Equipment Failure,Minor,No,Yes,No,4,9325.24
+INC0322,2022-07-18,Oil & Gas,West Timothy,Electrician,Maintenance,Fracture,Arm,Human Error,Minor,No,No,Yes,7,26734.01
+INC0323,2023-05-08,Manufacturing,Sarahfurt,Technician,Maintenance,Burn,Hand,Human Error,Minor,No,Yes,No,11,26520.05
+INC0324,2022-08-12,Mining,New Emma,Technician,Inspection,Crush Injury,Back,Chemical Exposure,Minor,Yes,No,Yes,9,39597.73
+INC0325,2022-07-08,Mining,Matthewsmouth,Technician,Lifting,Burn,Head,Human Error,Minor,No,No,Yes,4,29096.91
+INC0326,2023-03-26,Utilities,Traciechester,Welder,Maintenance,Laceration,Hand,Human Error,Fatal,No,No,Yes,11,19867.96
+INC0327,2024-09-05,Mining,Laurenfort,Welder,Maintenance,Fracture,Leg,Equipment Failure,Minor,Yes,Yes,No,11,34877.09
+INC0328,2023-11-06,Construction,Jennifermouth,Electrician,Lifting,Laceration,Head,Human Error,Major,Yes,Yes,Yes,8,38302.65
+INC0329,2024-02-19,Construction,South Alexander,Technician,Inspection,Laceration,Arm,Fall,Minor,No,No,No,2,34867.24
+INC0330,2023-05-02,Construction,Huntberg,Machine Operator,Welding,Sprain,Back,Chemical Exposure,Minor,No,Yes,No,6,29401.48
+INC0331,2023-10-09,Oil & Gas,Mariochester,Technician,Lifting,Laceration,Foot,Human Error,Minor,No,Yes,No,6,7093.22
+INC0332,2023-10-02,Oil & Gas,Alexanderberg,Safety Officer,Welding,Sprain,Hand,Fire,Minor,No,Yes,No,3,46506.03
+INC0333,2023-09-16,Mining,Langhaven,Electrician,Lifting,Sprain,Foot,Chemical Exposure,Minor,Yes,Yes,No,6,41443.32
+INC0334,2023-08-17,Mining,Port Angela,Safety Officer,Maintenance,Fracture,Head,Equipment Failure,Major,Yes,No,Yes,7,17323.98
+INC0335,2022-12-11,Manufacturing,Richardview,Safety Officer,Welding,Crush Injury,Arm,Chemical Exposure,Major,No,Yes,Yes,9,4993.73
+INC0336,2024-07-15,Construction,Nicolechester,Welder,Inspection,Burn,Head,Equipment Failure,Major,No,No,Yes,11,5844.43
+INC0337,2023-11-25,Construction,Melodyport,Electrician,Drilling,Fracture,Leg,Fire,Minor,Yes,No,No,6,9274.98
+INC0338,2023-09-30,Manufacturing,Lake Tamaraport,Machine Operator,Lifting,Crush Injury,Hand,Fire,Fatal,Yes,Yes,No,2,15614.4
+INC0339,2022-10-20,Manufacturing,East Kenneth,Welder,Welding,Burn,Leg,Fall,Minor,No,No,No,3,4245.91
+INC0340,2024-02-14,Construction,Westmouth,Welder,Inspection,Sprain,Foot,Chemical Exposure,Minor,Yes,No,No,2,39585.04
+INC0341,2024-05-10,Mining,West Jadefurt,Electrician,Welding,Crush Injury,Hand,Equipment Failure,Minor,No,Yes,No,12,31147.8
+INC0342,2023-04-30,Utilities,Port Kimberly,Technician,Welding,Fracture,Arm,Chemical Exposure,Minor,Yes,No,No,6,43864.45
+INC0343,2025-03-23,Mining,Lake Alexander,Safety Officer,Inspection,Sprain,Head,Fall,Minor,No,No,No,4,9047.91
+INC0344,2022-06-27,Utilities,Lake Alan,Machine Operator,Welding,Burn,Leg,Equipment Failure,Minor,Yes,Yes,No,2,22044.92
+INC0345,2022-11-25,Mining,North Sharon,Safety Officer,Maintenance,Burn,Back,Fall,Minor,Yes,No,No,6,39053.16
+INC0346,2023-09-16,Mining,North Brittanyberg,Welder,Inspection,Fracture,Head,Fall,Major,No,Yes,Yes,6,11656.26
+INC0347,2022-09-20,Manufacturing,West Paulburgh,Safety Officer,Lifting,Burn,Hand,Fall,Major,No,Yes,No,3,39573.98
+INC0348,2023-05-14,Construction,North Brandon,Technician,Lifting,Laceration,Foot,Fall,Minor,No,Yes,No,12,11800.23
+INC0349,2024-10-16,Mining,Brookefurt,Welder,Inspection,Burn,Foot,Chemical Exposure,Minor,Yes,Yes,Yes,11,14873.16
+INC0350,2023-09-19,Construction,South Dylan,Welder,Welding,Crush Injury,Head,Fall,Minor,No,No,Yes,7,31544.08
+INC0351,2023-09-18,Manufacturing,Joseshire,Electrician,Lifting,Burn,Foot,Chemical Exposure,Minor,No,Yes,No,9,34362.11
+INC0352,2024-11-26,Construction,Wagnerberg,Welder,Maintenance,Laceration,Foot,Equipment Failure,Minor,Yes,Yes,No,7,29014.1
+INC0353,2025-03-17,Manufacturing,New Ericborough,Safety Officer,Welding,Sprain,Head,Fire,Minor,Yes,No,No,10,31628.28
+INC0354,2024-04-01,Utilities,Clarkland,Safety Officer,Lifting,Burn,Leg,Human Error,Major,Yes,Yes,Yes,8,29991.78
+INC0355,2023-05-11,Utilities,Hamiltontown,Welder,Maintenance,Laceration,Arm,Chemical Exposure,Minor,Yes,No,No,10,49558.68
+INC0356,2023-02-21,Utilities,Port Connorborough,Electrician,Welding,Fracture,Back,Fall,Minor,Yes,No,No,1,4999.89
+INC0357,2023-08-09,Mining,Garyville,Machine Operator,Inspection,Burn,Leg,Chemical Exposure,Minor,No,Yes,Yes,11,40547.71
+INC0358,2023-12-08,Construction,New Jennifer,Electrician,Maintenance,Crush Injury,Back,Fire,Fatal,Yes,No,No,6,16633.51
+INC0359,2022-07-05,Oil & Gas,Lindseyville,Welder,Lifting,Burn,Head,Fall,Minor,Yes,Yes,Yes,2,26691.77
+INC0360,2024-11-18,Oil & Gas,Lake Hollyton,Machine Operator,Inspection,Burn,Arm,Fall,Minor,Yes,Yes,Yes,10,8246.62
+INC0361,2025-01-28,Manufacturing,New Brent,Electrician,Maintenance,Fracture,Head,Human Error,Major,No,Yes,Yes,1,3662.19
+INC0362,2022-08-09,Mining,Port Jonathan,Safety Officer,Welding,Burn,Arm,Equipment Failure,Minor,No,No,No,5,40647.31
+INC0363,2022-07-14,Manufacturing,Nicholashaven,Electrician,Lifting,Sprain,Head,Fall,Minor,No,No,No,2,17694.99
+INC0364,2022-05-29,Utilities,Harrisburgh,Electrician,Lifting,Burn,Head,Equipment Failure,Minor,Yes,Yes,Yes,5,11742.89
+INC0365,2023-07-30,Construction,New Susan,Electrician,Drilling,Sprain,Head,Fire,Minor,Yes,Yes,No,4,11069.05
+INC0366,2024-02-27,Oil & Gas,Nancyside,Welder,Maintenance,Burn,Head,Chemical Exposure,Minor,No,Yes,No,2,20407.18
+INC0367,2022-05-15,Utilities,Shawnview,Safety Officer,Lifting,Fracture,Back,Fall,Major,No,Yes,Yes,1,32245.32
+INC0368,2024-12-08,Manufacturing,East Masonberg,Safety Officer,Drilling,Burn,Arm,Equipment Failure,Major,Yes,Yes,No,11,5386.35
+INC0369,2024-02-19,Oil & Gas,Mackenzieburgh,Machine Operator,Inspection,Crush Injury,Head,Chemical Exposure,Minor,No,Yes,No,1,11244.74
+INC0370,2024-08-08,Utilities,Lake Scott,Technician,Lifting,Crush Injury,Arm,Chemical Exposure,Minor,Yes,Yes,No,9,17231.9
+INC0371,2024-12-21,Mining,South Nicolehaven,Machine Operator,Lifting,Sprain,Head,Human Error,Major,No,No,No,8,35727.93
+INC0372,2022-09-24,Oil & Gas,New Stevenstad,Technician,Maintenance,Fracture,Hand,Fall,Major,Yes,No,No,8,2809.37
+INC0373,2024-03-30,Construction,Thomasfurt,Safety Officer,Lifting,Burn,Arm,Equipment Failure,Minor,Yes,No,No,8,14223.17
+INC0374,2023-05-10,Oil & Gas,East Aaronshire,Safety Officer,Drilling,Crush Injury,Foot,Equipment Failure,Minor,No,Yes,No,5,22856.16
+INC0375,2023-03-13,Manufacturing,Lake Linda,Safety Officer,Maintenance,Sprain,Leg,Equipment Failure,Major,No,No,No,2,12984.99
+INC0376,2023-05-21,Oil & Gas,Smithville,Electrician,Maintenance,Burn,Foot,Fall,Minor,Yes,Yes,Yes,12,14028.19
+INC0377,2023-07-09,Construction,Port Charles,Safety Officer,Inspection,Burn,Foot,Fall,Minor,No,No,No,5,30117.28
+INC0378,2023-06-05,Construction,Christianshire,Welder,Inspection,Burn,Hand,Fall,Minor,Yes,No,Yes,11,18653.48
+INC0379,2023-10-12,Oil & Gas,Hodgesville,Electrician,Inspection,Fracture,Head,Fire,Minor,Yes,Yes,No,9,40354.4
+INC0380,2025-02-08,Oil & Gas,Lake Taylorfort,Electrician,Inspection,Sprain,Foot,Equipment Failure,Fatal,No,Yes,No,3,31263.12
+INC0381,2023-11-28,Oil & Gas,Welchton,Technician,Lifting,Sprain,Hand,Fire,Minor,No,Yes,No,5,4100.79
+INC0382,2023-08-18,Oil & Gas,Andersontown,Technician,Maintenance,Laceration,Hand,Fall,Minor,No,Yes,Yes,5,3557.52
+INC0383,2025-03-07,Construction,Lake Margaret,Safety Officer,Welding,Fracture,Hand,Human Error,Major,No,Yes,No,3,43220.09
+INC0384,2024-06-01,Mining,Baldwinland,Machine Operator,Maintenance,Burn,Hand,Equipment Failure,Minor,No,No,No,6,41877.18
+INC0385,2023-11-07,Utilities,Palmerview,Welder,Maintenance,Fracture,Hand,Chemical Exposure,Minor,Yes,Yes,Yes,11,38211.15
+INC0386,2024-12-05,Manufacturing,West Brandon,Machine Operator,Welding,Fracture,Head,Chemical Exposure,Major,No,No,Yes,9,20327.77
+INC0387,2024-12-23,Mining,East Sarahbury,Machine Operator,Maintenance,Burn,Back,Fire,Minor,Yes,No,Yes,12,9456.56
+INC0388,2022-08-20,Mining,Cherylberg,Welder,Maintenance,Laceration,Hand,Equipment Failure,Major,Yes,Yes,No,5,34273.13
+INC0389,2025-02-14,Construction,South Rebecca,Safety Officer,Welding,Crush Injury,Arm,Fall,Major,No,No,No,9,43256.43
+INC0390,2024-11-27,Mining,Williamshire,Safety Officer,Inspection,Fracture,Foot,Equipment Failure,Minor,No,No,Yes,2,14996.42
+INC0391,2022-06-04,Construction,Morrisonbury,Welder,Inspection,Burn,Arm,Chemical Exposure,Minor,No,No,No,3,43120.03
+INC0392,2023-10-08,Oil & Gas,East Amberfort,Welder,Maintenance,Sprain,Leg,Fire,Major,No,No,Yes,4,16678.07
+INC0393,2023-09-04,Oil & Gas,Jodyfurt,Welder,Maintenance,Crush Injury,Head,Equipment Failure,Minor,No,No,Yes,3,24879.5
+INC0394,2024-02-29,Construction,North Jeremyberg,Machine Operator,Welding,Burn,Hand,Fall,Minor,No,Yes,No,1,4628.42
+INC0395,2024-08-23,Manufacturing,West Andrea,Electrician,Lifting,Laceration,Hand,Chemical Exposure,Minor,Yes,No,No,3,25897.23
+INC0396,2023-08-27,Utilities,South Nicholeside,Welder,Lifting,Crush Injury,Back,Fall,Minor,Yes,No,No,5,25810.25
+INC0397,2024-12-18,Utilities,South Catherine,Electrician,Drilling,Burn,Hand,Equipment Failure,Minor,Yes,Yes,Yes,10,47617.94
+INC0398,2024-01-25,Utilities,North Scott,Welder,Inspection,Crush Injury,Head,Fire,Minor,Yes,No,No,9,10167.14
+INC0399,2024-06-15,Utilities,Dennisshire,Safety Officer,Drilling,Sprain,Hand,Chemical Exposure,Major,No,Yes,Yes,2,23286.75
+INC0400,2023-11-27,Oil & Gas,Lynchtown,Machine Operator,Drilling,Fracture,Hand,Human Error,Major,Yes,Yes,Yes,11,33834.2
+INC0401,2022-06-23,Construction,Miguelville,Safety Officer,Drilling,Crush Injury,Foot,Equipment Failure,Minor,Yes,No,Yes,12,40455.65
+INC0402,2025-04-19,Construction,Port Kathryn,Welder,Drilling,Laceration,Foot,Fire,Minor,Yes,Yes,Yes,8,4444.59
+INC0403,2024-12-11,Mining,West Matthewport,Safety Officer,Welding,Fracture,Arm,Fall,Minor,Yes,Yes,Yes,2,44492.22
+INC0404,2023-12-16,Construction,Port Albert,Electrician,Inspection,Laceration,Head,Human Error,Major,Yes,No,No,5,11062.55
+INC0405,2023-11-04,Oil & Gas,New Deniseborough,Welder,Welding,Laceration,Head,Human Error,Major,No,No,No,9,41736.58
+INC0406,2024-10-17,Mining,Nelsonfurt,Safety Officer,Welding,Fracture,Foot,Fire,Minor,Yes,No,Yes,12,35255.86
+INC0407,2024-09-29,Mining,Roblesshire,Welder,Welding,Fracture,Leg,Fire,Major,Yes,No,Yes,2,23423.65
+INC0408,2025-02-10,Mining,West Johnmouth,Technician,Welding,Crush Injury,Hand,Equipment Failure,Minor,No,Yes,No,1,9783.29
+INC0409,2023-01-20,Oil & Gas,Coryhaven,Electrician,Maintenance,Sprain,Hand,Chemical Exposure,Minor,No,No,Yes,8,17401.71
+INC0410,2023-05-20,Construction,West Rebeccafurt,Welder,Maintenance,Burn,Leg,Human Error,Major,Yes,No,No,6,18582.55
+INC0411,2023-05-20,Manufacturing,East Joshua,Electrician,Lifting,Sprain,Leg,Fall,Minor,No,Yes,No,12,15317.4
+INC0412,2022-05-06,Mining,North Christinaside,Electrician,Maintenance,Burn,Arm,Chemical Exposure,Minor,No,Yes,No,10,34821.4
+INC0413,2022-06-09,Utilities,Whitneyshire,Electrician,Welding,Crush Injury,Head,Equipment Failure,Major,No,No,Yes,3,19421.01
+INC0414,2024-03-06,Utilities,Kevinfurt,Safety Officer,Drilling,Burn,Leg,Chemical Exposure,Minor,No,Yes,Yes,11,29679.06
+INC0415,2024-05-30,Manufacturing,Williamschester,Machine Operator,Inspection,Burn,Leg,Chemical Exposure,Major,Yes,Yes,No,9,21760.43
+INC0416,2023-09-18,Construction,Wernerfurt,Safety Officer,Welding,Fracture,Head,Fire,Minor,Yes,Yes,Yes,6,41368.43
+INC0417,2022-12-05,Utilities,North Michelleville,Welder,Inspection,Fracture,Arm,Human Error,Minor,No,No,Yes,5,4520.08
+INC0418,2024-02-20,Mining,Sarahhaven,Machine Operator,Drilling,Fracture,Arm,Fall,Fatal,No,No,No,8,25738.18
+INC0419,2024-08-16,Utilities,Port Carolynhaven,Safety Officer,Lifting,Fracture,Back,Fall,Minor,Yes,No,Yes,9,30833.26
+INC0420,2024-03-12,Manufacturing,Michaelmouth,Technician,Maintenance,Crush Injury,Back,Fire,Minor,Yes,No,Yes,2,43648.64
+INC0421,2024-05-17,Oil & Gas,East Kelly,Machine Operator,Maintenance,Sprain,Leg,Equipment Failure,Major,Yes,No,Yes,9,45020.83
+INC0422,2022-09-14,Construction,Taylorside,Technician,Maintenance,Crush Injury,Hand,Fall,Minor,No,No,No,1,36243.71
+INC0423,2023-06-23,Utilities,Ryanville,Machine Operator,Drilling,Fracture,Leg,Chemical Exposure,Minor,No,No,No,8,15340.8
+INC0424,2025-03-16,Manufacturing,North Timothyfort,Welder,Drilling,Crush Injury,Leg,Fall,Minor,No,Yes,No,2,3460.22
+INC0425,2023-08-08,Manufacturing,South Laura,Safety Officer,Inspection,Sprain,Foot,Fire,Minor,No,Yes,No,6,11272.11
+INC0426,2023-07-29,Mining,Julieport,Technician,Lifting,Sprain,Arm,Chemical Exposure,Major,No,Yes,Yes,8,18550.13
+INC0427,2025-03-28,Mining,Port Lauraton,Machine Operator,Welding,Sprain,Hand,Fire,Major,Yes,Yes,Yes,8,21530.27
+INC0428,2022-07-31,Oil & Gas,New Amandafort,Welder,Maintenance,Fracture,Leg,Fall,Major,No,No,Yes,4,21852.04
+INC0429,2023-06-27,Construction,North Scottberg,Machine Operator,Lifting,Fracture,Foot,Chemical Exposure,Major,No,Yes,Yes,4,1196.83
+INC0430,2022-04-25,Utilities,Jonathanhaven,Machine Operator,Inspection,Laceration,Head,Equipment Failure,Major,Yes,Yes,Yes,2,45952.69
+INC0431,2022-12-25,Utilities,New Josephport,Machine Operator,Welding,Burn,Hand,Fire,Minor,Yes,Yes,Yes,1,16863.89
+INC0432,2024-11-07,Oil & Gas,West Jonathanmouth,Technician,Drilling,Fracture,Leg,Human Error,Minor,No,No,Yes,3,43695.97
+INC0433,2024-11-28,Construction,Maureenside,Safety Officer,Maintenance,Burn,Hand,Fire,Minor,No,No,No,12,39735.26
+INC0434,2024-01-25,Oil & Gas,New Kristinport,Safety Officer,Drilling,Laceration,Head,Human Error,Minor,Yes,No,No,9,33483.72
+INC0435,2025-03-29,Mining,Nicholasbury,Welder,Maintenance,Sprain,Arm,Chemical Exposure,Major,No,No,No,7,36645.13
+INC0436,2022-06-10,Manufacturing,West Barbara,Safety Officer,Drilling,Crush Injury,Arm,Equipment Failure,Minor,No,No,Yes,12,13385.73
+INC0437,2024-04-21,Manufacturing,Port Miguel,Technician,Inspection,Burn,Back,Equipment Failure,Major,No,Yes,No,11,39497.01
+INC0438,2024-09-05,Oil & Gas,Walkerbury,Welder,Drilling,Sprain,Back,Chemical Exposure,Minor,No,Yes,Yes,6,29246.39
+INC0439,2024-11-05,Utilities,Lake Theresaland,Technician,Maintenance,Laceration,Hand,Human Error,Minor,No,Yes,Yes,4,4736.44
+INC0440,2024-10-30,Mining,Philipstad,Technician,Maintenance,Laceration,Back,Fall,Major,No,No,No,6,10767.96
+INC0441,2023-04-07,Manufacturing,Bryanview,Technician,Drilling,Burn,Head,Fall,Minor,Yes,Yes,No,10,6956.82
+INC0442,2023-07-09,Manufacturing,Sarahport,Welder,Lifting,Fracture,Head,Human Error,Major,Yes,No,No,3,15524.48
+INC0443,2025-01-31,Mining,Bradleystad,Safety Officer,Inspection,Crush Injury,Head,Human Error,Major,Yes,No,Yes,1,49223.81
+INC0444,2024-05-01,Construction,Mckeetown,Welder,Welding,Sprain,Back,Equipment Failure,Minor,Yes,No,No,10,38699.95
+INC0445,2023-11-24,Construction,South Christophermouth,Technician,Lifting,Sprain,Head,Fall,Minor,No,No,No,9,45747.48
+INC0446,2023-02-02,Utilities,West Jessicaville,Machine Operator,Inspection,Laceration,Hand,Human Error,Major,No,No,No,3,29601.95
+INC0447,2024-08-17,Construction,Williamview,Safety Officer,Inspection,Sprain,Hand,Fire,Minor,Yes,Yes,No,10,20609.31
+INC0448,2024-11-19,Manufacturing,Rossview,Electrician,Drilling,Crush Injury,Head,Human Error,Major,Yes,No,No,7,433.11
+INC0449,2022-12-31,Oil & Gas,Armstrongton,Safety Officer,Drilling,Sprain,Arm,Human Error,Minor,Yes,No,Yes,10,16302.34
+INC0450,2022-12-03,Manufacturing,East Chad,Safety Officer,Welding,Sprain,Leg,Equipment Failure,Major,Yes,No,No,10,14708.34
+INC0451,2023-07-01,Oil & Gas,East Davidmouth,Electrician,Drilling,Fracture,Hand,Fall,Fatal,Yes,Yes,No,11,20823.72
+INC0452,2022-12-28,Manufacturing,Curtisfurt,Machine Operator,Drilling,Burn,Foot,Chemical Exposure,Major,Yes,Yes,No,11,8796.5
+INC0453,2022-10-02,Manufacturing,West Haley,Machine Operator,Drilling,Fracture,Hand,Chemical Exposure,Major,Yes,No,Yes,11,11864.84
+INC0454,2022-12-23,Oil & Gas,Michaelport,Machine Operator,Welding,Burn,Foot,Equipment Failure,Minor,No,Yes,Yes,8,18414.71
+INC0455,2025-03-25,Manufacturing,Lawrenceton,Electrician,Welding,Crush Injury,Arm,Human Error,Minor,No,No,No,5,3682.79
+INC0456,2024-12-03,Manufacturing,Roseport,Electrician,Welding,Crush Injury,Foot,Human Error,Minor,Yes,No,Yes,2,1158.48
+INC0457,2022-10-29,Construction,North Tiffanystad,Electrician,Maintenance,Laceration,Foot,Fall,Minor,Yes,Yes,Yes,11,9932.61
+INC0458,2023-03-19,Manufacturing,Lake Gabrielmouth,Electrician,Lifting,Laceration,Foot,Equipment Failure,Major,No,No,Yes,8,22905.55
+INC0459,2022-05-28,Utilities,East Justin,Technician,Inspection,Crush Injury,Back,Chemical Exposure,Minor,No,No,Yes,12,835.79
+INC0460,2023-09-11,Manufacturing,Coreyville,Welder,Maintenance,Fracture,Head,Chemical Exposure,Minor,No,Yes,Yes,7,17211.57
+INC0461,2023-09-15,Manufacturing,Lake Moniquefurt,Electrician,Maintenance,Sprain,Back,Chemical Exposure,Minor,Yes,No,Yes,8,25021.99
+INC0462,2024-10-11,Utilities,South Jacobview,Technician,Inspection,Sprain,Arm,Fall,Minor,Yes,No,Yes,1,42935.22
+INC0463,2022-05-16,Mining,Christopherberg,Machine Operator,Welding,Laceration,Leg,Human Error,Minor,No,Yes,Yes,9,8614.66
+INC0464,2023-02-13,Oil & Gas,Sanchezberg,Electrician,Welding,Crush Injury,Back,Human Error,Minor,Yes,Yes,No,6,28098.46
+INC0465,2023-03-13,Manufacturing,South Jacqueline,Electrician,Lifting,Sprain,Arm,Fall,Major,No,No,No,6,36392.45
+INC0466,2023-06-19,Oil & Gas,North Sethchester,Electrician,Maintenance,Laceration,Leg,Fall,Minor,No,No,Yes,9,43138.06
+INC0467,2024-08-12,Oil & Gas,Bassview,Machine Operator,Inspection,Burn,Head,Fire,Fatal,Yes,Yes,Yes,6,39620.09
+INC0468,2023-10-16,Mining,East Cynthiaburgh,Welder,Maintenance,Fracture,Leg,Chemical Exposure,Major,No,No,Yes,7,38534.49
+INC0469,2025-04-13,Mining,Port Leslie,Machine Operator,Lifting,Laceration,Back,Human Error,Minor,No,No,No,1,32309.39
+INC0470,2023-11-30,Construction,Lake Judy,Technician,Maintenance,Sprain,Foot,Equipment Failure,Major,No,Yes,Yes,8,18681.74
+INC0471,2024-07-24,Mining,East David,Technician,Drilling,Crush Injury,Leg,Chemical Exposure,Minor,No,Yes,No,1,5448.92
+INC0472,2023-12-21,Manufacturing,East Elizabethchester,Welder,Maintenance,Fracture,Foot,Chemical Exposure,Minor,No,Yes,No,10,3948.47
+INC0473,2025-01-19,Mining,Alexanderborough,Safety Officer,Lifting,Burn,Arm,Fire,Minor,Yes,No,No,6,4324.1
+INC0474,2024-05-20,Utilities,Cochranshire,Welder,Inspection,Sprain,Arm,Fire,Major,Yes,No,Yes,8,5330.43
+INC0475,2022-07-12,Manufacturing,Ryanchester,Technician,Welding,Laceration,Leg,Fire,Minor,No,Yes,No,3,22659.08
+INC0476,2023-06-02,Mining,South Mark,Safety Officer,Drilling,Burn,Arm,Fall,Minor,No,Yes,Yes,1,47758.63
+INC0477,2024-07-27,Mining,West Erinberg,Safety Officer,Maintenance,Burn,Foot,Fire,Minor,Yes,Yes,No,10,7512.24
+INC0478,2022-12-03,Mining,Sosabury,Machine Operator,Lifting,Burn,Head,Human Error,Minor,Yes,No,No,11,31740.84
+INC0479,2024-04-06,Mining,Josephfurt,Welder,Drilling,Burn,Hand,Human Error,Major,Yes,No,No,8,30243.01
+INC0480,2024-08-22,Mining,South Andrewshire,Technician,Inspection,Laceration,Hand,Fire,Major,No,No,Yes,7,14448.52
+INC0481,2024-09-23,Oil & Gas,Meganfort,Electrician,Lifting,Fracture,Hand,Fall,Major,No,Yes,Yes,5,32743.63
+INC0482,2022-05-27,Construction,Erinfort,Machine Operator,Drilling,Crush Injury,Arm,Fire,Minor,No,No,Yes,3,30974.26
+INC0483,2024-12-03,Mining,Richardton,Electrician,Lifting,Fracture,Foot,Equipment Failure,Minor,Yes,No,No,5,23632.12
+INC0484,2023-05-11,Utilities,Terryland,Electrician,Lifting,Crush Injury,Leg,Fire,Minor,Yes,No,Yes,8,42269.19
+INC0485,2022-12-01,Oil & Gas,North Erica,Technician,Lifting,Fracture,Hand,Human Error,Minor,Yes,Yes,No,8,29339.48
+INC0486,2023-12-30,Manufacturing,Adamstown,Electrician,Drilling,Laceration,Arm,Human Error,Major,No,No,No,4,3417.72
+INC0487,2024-01-04,Manufacturing,Greenechester,Electrician,Lifting,Laceration,Foot,Fire,Minor,No,Yes,No,1,46012.94
+INC0488,2023-01-04,Oil & Gas,New Sean,Technician,Welding,Crush Injury,Foot,Chemical Exposure,Minor,No,Yes,No,4,44878.89
+INC0489,2024-03-17,Construction,East Kimberlyfort,Electrician,Maintenance,Crush Injury,Arm,Human Error,Minor,No,No,Yes,1,23685.02
+INC0490,2022-09-07,Mining,Copelandtown,Machine Operator,Inspection,Crush Injury,Back,Human Error,Major,No,Yes,Yes,4,805.47
+INC0491,2022-11-29,Oil & Gas,Joshuaburgh,Safety Officer,Maintenance,Sprain,Head,Human Error,Minor,Yes,Yes,No,3,17978.0
+INC0492,2022-07-26,Mining,Jameston,Safety Officer,Drilling,Crush Injury,Head,Fall,Minor,Yes,No,No,7,21813.1
+INC0493,2023-11-17,Utilities,Lake Danatown,Electrician,Inspection,Sprain,Head,Human Error,Minor,No,No,No,9,38374.73
+INC0494,2022-12-19,Manufacturing,East Denise,Welder,Drilling,Crush Injury,Head,Chemical Exposure,Minor,No,No,Yes,9,17462.67
+INC0495,2024-01-09,Utilities,Royhaven,Safety Officer,Lifting,Laceration,Leg,Fire,Minor,Yes,Yes,Yes,6,35979.11
+INC0496,2024-07-01,Construction,West Dawnfurt,Welder,Inspection,Burn,Foot,Chemical Exposure,Major,No,Yes,No,3,24444.09
+INC0497,2022-05-09,Mining,Rojasstad,Machine Operator,Drilling,Crush Injury,Leg,Equipment Failure,Minor,No,Yes,No,6,32664.72
+INC0498,2024-03-05,Manufacturing,Laneton,Electrician,Lifting,Sprain,Head,Equipment Failure,Major,Yes,Yes,Yes,1,29393.75
+INC0499,2024-11-05,Mining,Port Jason,Electrician,Inspection,Fracture,Foot,Fall,Minor,Yes,Yes,Yes,8,39053.9
+INC0500,2022-12-16,Manufacturing,Maryfort,Safety Officer,Welding,Burn,Hand,Human Error,Major,Yes,Yes,No,8,33478.37
+INC0501,2025-04-01,Mining,Acevedoborough,Safety Officer,Inspection,Fracture,Hand,Fall,Minor,No,Yes,Yes,1,4605.99
+INC0502,2025-03-31,Oil & Gas,Foleyhaven,Safety Officer,Maintenance,Laceration,Arm,Fall,Major,Yes,No,No,7,5637.64
+INC0503,2024-08-19,Oil & Gas,Anaberg,Electrician,Maintenance,Sprain,Foot,Chemical Exposure,Minor,No,Yes,No,6,44213.47
+INC0504,2023-08-13,Construction,South Dean,Safety Officer,Lifting,Sprain,Hand,Human Error,Minor,Yes,Yes,Yes,12,8921.45
+INC0505,2024-08-13,Mining,Lisaport,Electrician,Inspection,Burn,Arm,Equipment Failure,Minor,Yes,No,No,5,2052.42
+INC0506,2024-01-30,Oil & Gas,Kristinland,Technician,Lifting,Burn,Foot,Fire,Major,No,Yes,Yes,9,13901.14
+INC0507,2024-07-03,Utilities,Port Michaelville,Electrician,Lifting,Sprain,Head,Human Error,Major,Yes,No,No,8,35310.6
+INC0508,2023-02-26,Manufacturing,East Bailey,Welder,Inspection,Crush Injury,Leg,Chemical Exposure,Major,Yes,Yes,Yes,6,15415.23
+INC0509,2023-04-12,Construction,Sharpburgh,Welder,Drilling,Fracture,Back,Fire,Minor,No,No,No,8,21213.68
+INC0510,2024-07-04,Mining,Walkerburgh,Technician,Drilling,Sprain,Foot,Fall,Minor,Yes,Yes,Yes,9,24342.22
+INC0511,2025-04-02,Oil & Gas,Johnstad,Technician,Drilling,Burn,Arm,Fire,Minor,Yes,No,No,5,42591.03
+INC0512,2023-12-16,Oil & Gas,North Dorothyberg,Technician,Lifting,Fracture,Back,Chemical Exposure,Major,Yes,No,No,6,14718.58
+INC0513,2024-06-19,Manufacturing,Edwardsville,Machine Operator,Inspection,Sprain,Foot,Fire,Minor,No,Yes,Yes,3,10008.55
+INC0514,2023-06-06,Manufacturing,North Michelle,Safety Officer,Maintenance,Laceration,Arm,Human Error,Minor,Yes,Yes,No,5,40508.75
+INC0515,2022-07-23,Construction,West Jessica,Welder,Drilling,Laceration,Foot,Fall,Minor,No,Yes,No,1,39580.94
+INC0516,2022-05-21,Construction,Reevestown,Machine Operator,Drilling,Crush Injury,Arm,Human Error,Major,Yes,Yes,Yes,6,9050.69
+INC0517,2023-10-24,Utilities,Port Derrick,Technician,Lifting,Burn,Foot,Human Error,Minor,No,Yes,No,11,39121.46
+INC0518,2022-09-13,Mining,Erikaside,Welder,Maintenance,Burn,Back,Fire,Major,No,Yes,No,12,39530.8
+INC0519,2025-01-02,Mining,Brandonberg,Machine Operator,Welding,Fracture,Arm,Chemical Exposure,Minor,Yes,No,Yes,9,32596.43
+INC0520,2023-04-19,Oil & Gas,Maloneton,Technician,Drilling,Laceration,Arm,Human Error,Major,Yes,Yes,Yes,8,23562.95
+INC0521,2023-05-08,Construction,New Josephton,Electrician,Inspection,Fracture,Arm,Equipment Failure,Major,No,Yes,Yes,10,44873.19
+INC0522,2025-04-16,Construction,Amandaton,Welder,Drilling,Burn,Foot,Chemical Exposure,Major,No,Yes,No,11,46831.82
+INC0523,2022-06-21,Construction,Martinezbury,Machine Operator,Drilling,Laceration,Leg,Equipment Failure,Minor,No,Yes,Yes,7,15643.12
+INC0524,2023-04-16,Utilities,North Heatherside,Safety Officer,Welding,Fracture,Head,Human Error,Major,Yes,No,No,12,24348.63
+INC0525,2023-04-09,Utilities,Port James,Technician,Inspection,Laceration,Arm,Chemical Exposure,Minor,No,No,No,10,6754.34
+INC0526,2023-03-06,Utilities,Kaylachester,Technician,Welding,Laceration,Leg,Fire,Minor,Yes,Yes,No,7,4851.92
+INC0527,2023-01-22,Manufacturing,Berryshire,Welder,Maintenance,Sprain,Head,Fall,Minor,No,No,Yes,8,12884.06
+INC0528,2025-03-04,Construction,Amyport,Machine Operator,Welding,Laceration,Arm,Equipment Failure,Minor,No,Yes,Yes,11,24511.63
+INC0529,2025-03-11,Construction,Katrinamouth,Machine Operator,Lifting,Laceration,Leg,Human Error,Fatal,No,No,No,11,19954.86
+INC0530,2023-01-04,Utilities,Petersonmouth,Safety Officer,Lifting,Fracture,Hand,Fall,Minor,No,Yes,Yes,9,7632.14
+INC0531,2023-06-16,Utilities,Lunaport,Welder,Welding,Sprain,Leg,Fire,Minor,Yes,Yes,No,9,35831.22
+INC0532,2024-11-22,Mining,Carrfort,Machine Operator,Inspection,Fracture,Head,Equipment Failure,Minor,No,No,No,1,42925.67
+INC0533,2024-04-05,Construction,West Carla,Electrician,Drilling,Laceration,Back,Fall,Major,No,No,Yes,8,29258.99
+INC0534,2022-09-30,Oil & Gas,Lake Bradley,Electrician,Inspection,Crush Injury,Arm,Fall,Major,Yes,No,No,6,23990.62
+INC0535,2023-03-28,Construction,Jamesville,Welder,Welding,Laceration,Arm,Human Error,Minor,No,Yes,No,1,12829.46
+INC0536,2023-09-05,Mining,Mahoneyborough,Technician,Lifting,Burn,Head,Fire,Major,Yes,Yes,No,1,38122.99
+INC0537,2025-02-04,Construction,Carrtown,Machine Operator,Inspection,Burn,Arm,Fall,Fatal,No,Yes,No,8,2091.23
+INC0538,2024-10-31,Manufacturing,Port Douglas,Technician,Inspection,Sprain,Arm,Chemical Exposure,Fatal,Yes,Yes,No,3,40834.53
+INC0539,2023-11-18,Manufacturing,Dunnberg,Technician,Lifting,Laceration,Hand,Human Error,Major,Yes,No,No,9,3156.74
+INC0540,2025-01-13,Mining,Jacobfort,Machine Operator,Welding,Crush Injury,Arm,Chemical Exposure,Major,Yes,Yes,Yes,9,39371.7
+INC0541,2023-02-03,Manufacturing,Lopezborough,Electrician,Maintenance,Fracture,Arm,Fire,Fatal,Yes,Yes,No,12,24000.41
+INC0542,2024-05-31,Utilities,Johnsonbury,Electrician,Lifting,Crush Injury,Leg,Chemical Exposure,Minor,No,Yes,No,4,4441.17
+INC0543,2024-09-13,Mining,Christinaberg,Technician,Inspection,Burn,Arm,Human Error,Minor,No,No,No,12,799.52
+INC0544,2025-02-05,Oil & Gas,Andreastad,Technician,Inspection,Fracture,Leg,Fall,Minor,No,No,Yes,7,18722.16
+INC0545,2023-04-13,Manufacturing,East Rickyton,Technician,Lifting,Laceration,Foot,Equipment Failure,Major,No,No,No,4,6600.79
+INC0546,2024-12-06,Oil & Gas,North Michael,Machine Operator,Drilling,Sprain,Hand,Human Error,Minor,Yes,Yes,No,5,9212.0
+INC0547,2023-06-19,Mining,Port Rachaelhaven,Machine Operator,Drilling,Fracture,Back,Equipment Failure,Minor,Yes,No,Yes,4,9110.15
+INC0548,2024-06-16,Mining,East Jasonton,Welder,Welding,Burn,Foot,Chemical Exposure,Minor,Yes,Yes,Yes,6,33755.62
+INC0549,2025-02-15,Manufacturing,Batesside,Electrician,Lifting,Burn,Hand,Fire,Minor,Yes,No,Yes,1,29490.11
+INC0550,2023-03-03,Utilities,Walkerside,Safety Officer,Lifting,Laceration,Head,Fire,Major,Yes,Yes,Yes,8,12992.49
+INC0551,2022-11-20,Mining,Lake Matthewhaven,Machine Operator,Welding,Laceration,Foot,Equipment Failure,Minor,No,Yes,Yes,7,8213.96
+INC0552,2023-05-15,Mining,East Chelsea,Safety Officer,Maintenance,Fracture,Back,Human Error,Major,No,No,Yes,10,6936.63
+INC0553,2024-01-24,Oil & Gas,East Benjaminhaven,Technician,Inspection,Crush Injury,Leg,Fire,Minor,No,No,Yes,4,15365.57
+INC0554,2023-05-22,Mining,South Jeffery,Electrician,Drilling,Fracture,Arm,Chemical Exposure,Minor,No,No,No,5,30766.14
+INC0555,2022-10-13,Manufacturing,East Destiny,Machine Operator,Lifting,Burn,Leg,Fall,Fatal,Yes,Yes,No,8,584.47
+INC0556,2022-05-01,Utilities,Jamesbury,Machine Operator,Welding,Sprain,Arm,Fall,Minor,Yes,Yes,Yes,1,40695.33
+INC0557,2024-07-06,Manufacturing,Haroldfort,Electrician,Inspection,Burn,Leg,Chemical Exposure,Minor,No,No,Yes,10,29700.81
+INC0558,2023-10-28,Utilities,Smithmouth,Welder,Lifting,Laceration,Arm,Chemical Exposure,Major,Yes,No,Yes,1,8367.58
+INC0559,2023-12-07,Manufacturing,North Haley,Machine Operator,Maintenance,Sprain,Foot,Equipment Failure,Minor,No,No,Yes,8,30110.09
+INC0560,2023-07-27,Mining,North Crystal,Safety Officer,Maintenance,Crush Injury,Back,Fire,Minor,No,Yes,No,11,33789.76
+INC0561,2022-12-27,Mining,West James,Machine Operator,Inspection,Fracture,Head,Fall,Minor,No,No,No,1,15155.75
+INC0562,2024-11-08,Utilities,Brucefurt,Welder,Welding,Crush Injury,Head,Human Error,Minor,No,Yes,Yes,12,16226.31
+INC0563,2023-05-05,Utilities,New Linda,Safety Officer,Drilling,Burn,Head,Fire,Minor,No,No,Yes,9,12574.67
+INC0564,2022-06-11,Mining,West Justinborough,Welder,Welding,Sprain,Hand,Fire,Major,Yes,No,No,6,13528.29
+INC0565,2024-01-04,Construction,New Randy,Machine Operator,Drilling,Burn,Arm,Fall,Minor,Yes,Yes,No,6,40558.04
+INC0566,2022-06-01,Oil & Gas,Carpentershire,Machine Operator,Inspection,Fracture,Arm,Fire,Minor,No,Yes,No,3,30834.68
+INC0567,2022-04-25,Manufacturing,Tammychester,Welder,Drilling,Sprain,Hand,Equipment Failure,Minor,No,No,Yes,4,10292.57
+INC0568,2024-11-10,Mining,Katrinamouth,Safety Officer,Drilling,Laceration,Head,Equipment Failure,Major,No,Yes,No,1,16161.81
+INC0569,2023-10-31,Oil & Gas,New Ryan,Welder,Lifting,Laceration,Leg,Chemical Exposure,Major,Yes,Yes,Yes,11,24752.67
+INC0570,2023-08-01,Construction,Leeburgh,Technician,Drilling,Sprain,Back,Fire,Major,No,No,Yes,8,36427.56
+INC0571,2024-04-02,Utilities,Port Toddbury,Welder,Maintenance,Fracture,Foot,Human Error,Major,No,Yes,No,6,12864.11
+INC0572,2023-10-18,Oil & Gas,East David,Electrician,Welding,Crush Injury,Leg,Chemical Exposure,Minor,No,Yes,No,6,7285.18
+INC0573,2024-05-12,Construction,Masseymouth,Safety Officer,Welding,Fracture,Back,Chemical Exposure,Major,No,Yes,No,10,37826.78
+INC0574,2023-03-12,Construction,East Toniborough,Welder,Lifting,Sprain,Arm,Equipment Failure,Major,Yes,Yes,No,7,11012.33
+INC0575,2022-06-22,Construction,New Tami,Technician,Maintenance,Laceration,Hand,Equipment Failure,Minor,No,No,No,5,43231.09
+INC0576,2024-04-23,Mining,Lake Clinton,Technician,Drilling,Laceration,Arm,Human Error,Minor,Yes,No,Yes,7,45168.8
+INC0577,2022-06-30,Utilities,West Travis,Electrician,Welding,Laceration,Leg,Equipment Failure,Minor,Yes,Yes,No,2,46165.44
+INC0578,2022-07-21,Manufacturing,New Devinhaven,Welder,Inspection,Burn,Head,Equipment Failure,Minor,Yes,Yes,Yes,6,7640.1
+INC0579,2023-03-28,Mining,Port Catherineburgh,Electrician,Inspection,Fracture,Hand,Fire,Minor,No,Yes,Yes,2,31035.51
+INC0580,2024-01-23,Oil & Gas,East Latoyamouth,Technician,Inspection,Burn,Foot,Equipment Failure,Minor,Yes,No,No,7,40198.64
+INC0581,2024-11-07,Manufacturing,Dixonmouth,Safety Officer,Maintenance,Crush Injury,Arm,Human Error,Major,No,Yes,No,12,37016.79
+INC0582,2022-12-06,Manufacturing,West Courtneyberg,Electrician,Inspection,Fracture,Hand,Equipment Failure,Minor,Yes,No,No,2,21183.7
+INC0583,2023-03-09,Manufacturing,North Michelle,Electrician,Welding,Crush Injury,Foot,Fire,Minor,No,No,No,4,42911.96
+INC0584,2024-09-03,Utilities,Lake Matthew,Welder,Welding,Burn,Arm,Fall,Minor,No,No,No,8,46583.28
+INC0585,2024-10-18,Mining,Lake Jenniferfort,Electrician,Lifting,Laceration,Back,Fire,Minor,Yes,No,No,4,27236.49
+INC0586,2023-10-19,Oil & Gas,Thomasview,Electrician,Lifting,Crush Injury,Leg,Human Error,Minor,Yes,Yes,Yes,4,6363.86
+INC0587,2024-02-07,Construction,Michelleborough,Technician,Inspection,Sprain,Head,Fire,Major,Yes,No,Yes,6,46881.08
+INC0588,2023-11-01,Oil & Gas,Reyesside,Electrician,Welding,Sprain,Head,Fall,Major,No,No,Yes,6,27119.58
+INC0589,2022-10-24,Manufacturing,New Alexis,Safety Officer,Maintenance,Burn,Head,Human Error,Minor,Yes,No,Yes,10,15812.28
+INC0590,2024-05-21,Manufacturing,Edwardshaven,Electrician,Drilling,Laceration,Back,Equipment Failure,Fatal,No,Yes,Yes,4,49297.39
+INC0591,2024-04-20,Construction,Lisaburgh,Technician,Drilling,Fracture,Hand,Fall,Minor,No,No,No,6,23174.88
+INC0592,2023-03-17,Manufacturing,West Jennifer,Technician,Maintenance,Burn,Arm,Chemical Exposure,Minor,No,Yes,Yes,1,6276.91
+INC0593,2022-09-23,Mining,North Andrew,Safety Officer,Inspection,Burn,Back,Chemical Exposure,Minor,No,No,Yes,1,6605.8
+INC0594,2024-10-24,Utilities,Charlesstad,Machine Operator,Drilling,Laceration,Foot,Fire,Minor,Yes,Yes,Yes,8,29403.58
+INC0595,2025-01-31,Construction,Lake Cynthiabury,Machine Operator,Drilling,Crush Injury,Leg,Chemical Exposure,Minor,Yes,Yes,Yes,3,9186.14
+INC0596,2022-07-19,Manufacturing,New Dianetown,Electrician,Inspection,Burn,Foot,Fire,Major,Yes,Yes,No,2,35386.19
+INC0597,2023-06-16,Oil & Gas,Port Bryanborough,Machine Operator,Maintenance,Crush Injury,Leg,Fall,Minor,Yes,Yes,No,7,37732.47
+INC0598,2025-04-16,Mining,Lake Kristen,Welder,Inspection,Sprain,Foot,Fall,Minor,Yes,Yes,Yes,8,33765.61
+INC0599,2022-10-04,Mining,South Justin,Technician,Welding,Laceration,Foot,Fall,Major,No,No,No,2,32141.53
+INC0600,2024-10-30,Manufacturing,East Michaelborough,Machine Operator,Lifting,Fracture,Hand,Human Error,Minor,No,No,Yes,1,4579.32
+INC0601,2023-11-12,Mining,Greeneborough,Technician,Maintenance,Sprain,Back,Fire,Major,Yes,No,Yes,5,163.77
+INC0602,2024-02-08,Utilities,South Richard,Safety Officer,Lifting,Sprain,Hand,Fire,Minor,No,Yes,No,4,4903.34
+INC0603,2024-09-03,Utilities,New Garychester,Safety Officer,Welding,Sprain,Back,Human Error,Major,No,Yes,Yes,12,36489.03
+INC0604,2025-02-13,Utilities,Kennethville,Machine Operator,Welding,Crush Injury,Foot,Fall,Major,No,Yes,No,7,12515.51
+INC0605,2023-08-14,Oil & Gas,Yeseniaview,Machine Operator,Maintenance,Sprain,Hand,Fire,Minor,No,Yes,Yes,5,46007.08
+INC0606,2023-07-13,Manufacturing,Tracytown,Safety Officer,Inspection,Crush Injury,Back,Equipment Failure,Major,Yes,Yes,No,1,17849.99
+INC0607,2023-10-29,Mining,South Kathryn,Machine Operator,Lifting,Fracture,Back,Human Error,Major,Yes,Yes,Yes,9,32839.54
+INC0608,2025-02-19,Mining,Lake Heathershire,Machine Operator,Maintenance,Crush Injury,Leg,Fall,Major,Yes,No,No,9,37292.37
+INC0609,2022-06-23,Manufacturing,Christianport,Technician,Welding,Laceration,Head,Fall,Major,No,No,Yes,7,23574.25
+INC0610,2024-11-02,Manufacturing,North Kyle,Safety Officer,Inspection,Burn,Foot,Fall,Minor,No,Yes,Yes,11,9499.75
+INC0611,2025-01-02,Oil & Gas,Hernandezside,Electrician,Drilling,Crush Injury,Arm,Fire,Fatal,No,No,No,12,26944.92
+INC0612,2022-06-07,Oil & Gas,Michaelview,Safety Officer,Lifting,Sprain,Foot,Chemical Exposure,Major,Yes,Yes,No,11,23333.31
+INC0613,2024-08-14,Construction,Gallowayhaven,Electrician,Welding,Crush Injury,Arm,Fire,Major,No,No,No,11,29646.09
+INC0614,2023-12-23,Construction,Brownbury,Electrician,Drilling,Burn,Back,Fire,Minor,Yes,Yes,Yes,11,48230.09
+INC0615,2024-05-06,Manufacturing,Graystad,Technician,Lifting,Fracture,Hand,Fall,Major,No,Yes,Yes,7,13189.77
+INC0616,2022-06-19,Oil & Gas,South Feliciafurt,Technician,Lifting,Burn,Leg,Fall,Major,Yes,Yes,No,3,27198.64
+INC0617,2023-06-13,Manufacturing,Port Heather,Technician,Inspection,Fracture,Foot,Fall,Major,Yes,Yes,Yes,3,47799.94
+INC0618,2022-12-23,Utilities,North Kevin,Electrician,Lifting,Fracture,Back,Fall,Fatal,No,Yes,No,7,41577.25
+INC0619,2025-02-27,Manufacturing,South Brett,Technician,Drilling,Fracture,Leg,Fire,Minor,No,Yes,Yes,3,11887.37
+INC0620,2024-01-09,Oil & Gas,New Sydney,Machine Operator,Drilling,Laceration,Foot,Equipment Failure,Minor,Yes,No,Yes,8,24006.04
+INC0621,2023-03-28,Mining,West Christopher,Machine Operator,Inspection,Crush Injury,Leg,Fire,Minor,Yes,Yes,No,12,19037.81
+INC0622,2022-08-30,Utilities,Loriton,Welder,Lifting,Crush Injury,Hand,Human Error,Minor,No,No,No,4,9852.47
+INC0623,2024-07-11,Oil & Gas,Lake Nathanside,Electrician,Lifting,Burn,Foot,Chemical Exposure,Minor,No,No,Yes,2,13084.2
+INC0624,2022-08-15,Oil & Gas,Port Joseph,Welder,Lifting,Laceration,Hand,Chemical Exposure,Minor,Yes,No,Yes,9,8307.13
+INC0625,2024-03-30,Utilities,South Josephchester,Technician,Inspection,Fracture,Back,Fire,Fatal,Yes,No,Yes,2,5522.45
+INC0626,2023-01-10,Manufacturing,East Zachary,Welder,Lifting,Burn,Head,Human Error,Major,No,No,Yes,12,25827.61
+INC0627,2022-12-25,Oil & Gas,Torresstad,Electrician,Inspection,Fracture,Leg,Fire,Fatal,No,Yes,No,5,42331.4
+INC0628,2025-02-12,Utilities,Andersonburgh,Safety Officer,Maintenance,Burn,Head,Human Error,Minor,No,No,Yes,10,39905.22
+INC0629,2024-02-11,Construction,Maytown,Electrician,Drilling,Burn,Hand,Fire,Major,Yes,No,No,4,31336.24
+INC0630,2024-02-08,Manufacturing,Melissamouth,Electrician,Drilling,Fracture,Head,Chemical Exposure,Major,Yes,No,Yes,1,11064.98
+INC0631,2024-10-11,Construction,Nicholsontown,Welder,Lifting,Crush Injury,Hand,Fall,Minor,No,No,No,4,45337.29
+INC0632,2023-11-11,Oil & Gas,Mccormickborough,Machine Operator,Inspection,Burn,Foot,Human Error,Major,Yes,No,No,12,30190.39
+INC0633,2024-09-15,Mining,South Austinfurt,Electrician,Maintenance,Fracture,Arm,Fall,Minor,No,No,No,9,3221.59
+INC0634,2023-01-23,Oil & Gas,Lake Ryan,Machine Operator,Maintenance,Laceration,Foot,Chemical Exposure,Major,No,Yes,Yes,9,48506.99
+INC0635,2024-10-11,Mining,Staceyport,Welder,Lifting,Burn,Foot,Fall,Minor,Yes,Yes,Yes,10,31469.97
+INC0636,2022-07-16,Utilities,North Robertshire,Machine Operator,Maintenance,Sprain,Arm,Human Error,Minor,No,Yes,No,6,11817.15
+INC0637,2022-07-18,Oil & Gas,North Richard,Technician,Drilling,Crush Injury,Arm,Chemical Exposure,Minor,Yes,No,Yes,6,16614.41
+INC0638,2022-05-07,Manufacturing,Turnerton,Welder,Drilling,Crush Injury,Head,Fall,Minor,No,Yes,Yes,3,10141.44
+INC0639,2023-11-10,Oil & Gas,North Tyler,Machine Operator,Welding,Fracture,Hand,Chemical Exposure,Minor,No,Yes,Yes,3,40852.85
+INC0640,2023-10-06,Construction,East Lauraside,Technician,Inspection,Fracture,Hand,Equipment Failure,Minor,No,Yes,No,1,3685.99
+INC0641,2023-04-17,Oil & Gas,New Teresachester,Welder,Maintenance,Sprain,Hand,Fire,Minor,Yes,No,No,8,25069.21
+INC0642,2023-10-13,Construction,Kelliburgh,Welder,Maintenance,Sprain,Head,Fire,Minor,No,Yes,Yes,11,28566.07
+INC0643,2023-06-01,Manufacturing,Reyesmouth,Technician,Lifting,Burn,Back,Fall,Minor,No,No,Yes,4,19744.73
+INC0644,2024-01-26,Utilities,Jodyfort,Safety Officer,Drilling,Crush Injury,Arm,Chemical Exposure,Minor,No,Yes,Yes,10,33626.94
+INC0645,2023-08-12,Oil & Gas,Watsonfurt,Machine Operator,Maintenance,Sprain,Hand,Equipment Failure,Minor,No,Yes,Yes,11,25982.21
+INC0646,2024-02-08,Oil & Gas,Emilyfort,Safety Officer,Drilling,Sprain,Hand,Equipment Failure,Major,No,Yes,No,10,14248.61
+INC0647,2022-12-26,Construction,Port Karen,Machine Operator,Lifting,Crush Injury,Back,Fire,Fatal,No,Yes,No,6,30537.13
+INC0648,2022-10-03,Mining,Lake Jesus,Technician,Inspection,Laceration,Leg,Chemical Exposure,Major,No,Yes,Yes,6,19769.22
+INC0649,2023-12-31,Utilities,Port Vanessafort,Welder,Lifting,Laceration,Back,Equipment Failure,Major,No,No,Yes,6,25127.17
+INC0650,2024-11-19,Utilities,South Brianna,Electrician,Lifting,Burn,Foot,Human Error,Major,No,No,No,9,47148.16
+INC0651,2023-11-20,Construction,Lake Donna,Technician,Inspection,Crush Injury,Foot,Equipment Failure,Minor,Yes,No,Yes,1,2940.68
+INC0652,2024-12-14,Manufacturing,Jenniferton,Technician,Maintenance,Laceration,Leg,Chemical Exposure,Minor,Yes,Yes,Yes,3,24799.14
+INC0653,2023-05-26,Utilities,New Elizabeth,Machine Operator,Inspection,Fracture,Head,Chemical Exposure,Minor,No,Yes,Yes,11,23498.4
+INC0654,2023-09-25,Mining,Burkehaven,Safety Officer,Welding,Fracture,Arm,Fire,Fatal,Yes,Yes,No,9,17451.83
+INC0655,2023-01-26,Mining,North Robert,Safety Officer,Inspection,Fracture,Leg,Equipment Failure,Minor,Yes,No,Yes,3,49473.19
+INC0656,2022-11-23,Oil & Gas,Davisburgh,Welder,Inspection,Laceration,Back,Fire,Minor,No,Yes,No,3,22782.03
+INC0657,2023-04-19,Utilities,New Lisa,Machine Operator,Drilling,Sprain,Back,Fire,Minor,No,No,Yes,12,31759.1
+INC0658,2022-09-10,Oil & Gas,Port Wayne,Technician,Lifting,Laceration,Hand,Human Error,Major,No,Yes,No,11,37478.87
+INC0659,2023-09-29,Manufacturing,Millerborough,Machine Operator,Inspection,Sprain,Back,Human Error,Major,No,No,Yes,4,45844.73
+INC0660,2022-11-17,Utilities,New Andrewfurt,Technician,Drilling,Fracture,Leg,Fire,Major,Yes,No,No,10,38062.97
+INC0661,2023-01-16,Oil & Gas,Port Thomas,Welder,Inspection,Crush Injury,Back,Chemical Exposure,Minor,Yes,Yes,No,3,43968.27
+INC0662,2024-07-26,Oil & Gas,West Eric,Technician,Inspection,Crush Injury,Head,Fire,Minor,No,Yes,No,12,32833.82
+INC0663,2023-05-22,Manufacturing,New Monicafurt,Machine Operator,Drilling,Burn,Back,Fire,Minor,Yes,No,Yes,3,6487.61
+INC0664,2024-04-08,Oil & Gas,Lake Roberttown,Safety Officer,Drilling,Laceration,Foot,Fire,Fatal,Yes,Yes,Yes,5,8891.3
+INC0665,2023-11-11,Manufacturing,Lake Daniel,Machine Operator,Lifting,Burn,Leg,Chemical Exposure,Major,Yes,No,Yes,3,17763.38
+INC0666,2025-03-23,Mining,Grahamfurt,Safety Officer,Maintenance,Laceration,Leg,Human Error,Major,Yes,Yes,Yes,10,28107.34
+INC0667,2022-04-24,Oil & Gas,New Andrew,Electrician,Lifting,Crush Injury,Foot,Fall,Minor,No,No,No,11,27395.12
+INC0668,2022-06-04,Mining,Nortonland,Welder,Inspection,Laceration,Hand,Human Error,Major,No,Yes,Yes,2,4457.09
+INC0669,2023-02-09,Construction,North Meganmouth,Welder,Welding,Fracture,Head,Equipment Failure,Minor,Yes,No,No,4,23131.62
+INC0670,2023-01-16,Mining,Lake Timothyshire,Electrician,Lifting,Laceration,Back,Fall,Major,Yes,No,Yes,3,8074.42
+INC0671,2022-10-11,Construction,Angelahaven,Welder,Welding,Laceration,Hand,Chemical Exposure,Minor,Yes,Yes,No,6,23638.92
+INC0672,2024-11-15,Mining,East Trevor,Safety Officer,Lifting,Laceration,Leg,Fall,Minor,Yes,Yes,No,11,11311.35
+INC0673,2024-04-30,Oil & Gas,Bestfort,Welder,Welding,Fracture,Hand,Fire,Minor,No,No,No,4,14596.11
+INC0674,2023-09-29,Mining,Marcoborough,Machine Operator,Inspection,Sprain,Head,Fire,Minor,Yes,Yes,No,5,28790.23
+INC0675,2024-11-20,Construction,Woodsborough,Safety Officer,Drilling,Burn,Hand,Human Error,Major,Yes,No,No,5,16725.15
+INC0676,2022-08-05,Manufacturing,New Lee,Welder,Welding,Laceration,Foot,Human Error,Minor,No,Yes,Yes,5,2883.51
+INC0677,2023-02-05,Construction,Lake Michaelhaven,Safety Officer,Inspection,Fracture,Hand,Fire,Minor,No,No,No,7,22161.13
+INC0678,2022-05-26,Construction,Port John,Safety Officer,Lifting,Crush Injury,Back,Human Error,Minor,Yes,Yes,Yes,11,40106.03
+INC0679,2023-07-25,Manufacturing,South Amandaview,Welder,Welding,Sprain,Foot,Chemical Exposure,Minor,No,No,Yes,5,1060.03
+INC0680,2025-02-25,Construction,Port Nicholas,Electrician,Welding,Crush Injury,Arm,Equipment Failure,Minor,Yes,Yes,Yes,5,19931.95
+INC0681,2023-06-19,Manufacturing,Alvarezport,Electrician,Lifting,Crush Injury,Back,Equipment Failure,Major,No,No,Yes,6,31298.36
+INC0682,2023-09-22,Utilities,Port Ericmouth,Electrician,Maintenance,Burn,Back,Chemical Exposure,Minor,No,Yes,Yes,1,38478.36
+INC0683,2024-06-21,Utilities,Susanshire,Safety Officer,Inspection,Crush Injury,Head,Chemical Exposure,Minor,No,Yes,Yes,4,39236.84
+INC0684,2023-10-31,Utilities,Lewismouth,Electrician,Inspection,Fracture,Foot,Human Error,Major,No,No,No,12,37245.48
+INC0685,2023-03-02,Utilities,Port Kellyfort,Technician,Inspection,Burn,Back,Equipment Failure,Major,No,Yes,Yes,1,31646.94
+INC0686,2023-09-16,Oil & Gas,Evelynmouth,Welder,Drilling,Burn,Back,Chemical Exposure,Minor,Yes,Yes,No,12,11378.06
+INC0687,2023-06-22,Manufacturing,Jenniferbury,Machine Operator,Welding,Laceration,Head,Chemical Exposure,Minor,No,Yes,No,10,6551.09
+INC0688,2023-10-08,Mining,West William,Machine Operator,Maintenance,Laceration,Hand,Human Error,Minor,Yes,No,Yes,3,19813.05
+INC0689,2025-01-06,Utilities,Paulside,Technician,Maintenance,Laceration,Foot,Human Error,Minor,Yes,No,Yes,8,31149.11
+INC0690,2022-08-13,Mining,Port Michaelmouth,Welder,Welding,Burn,Hand,Equipment Failure,Minor,No,No,Yes,1,8784.2
+INC0691,2023-09-28,Oil & Gas,North Katherine,Machine Operator,Lifting,Laceration,Head,Human Error,Minor,Yes,Yes,No,10,39240.17
+INC0692,2023-02-26,Mining,Port Marvinborough,Machine Operator,Welding,Burn,Hand,Human Error,Minor,No,Yes,No,10,47880.26
+INC0693,2023-10-14,Construction,Laurafort,Machine Operator,Welding,Laceration,Leg,Chemical Exposure,Minor,No,No,Yes,3,4169.55
+INC0694,2024-08-03,Construction,New Jeremymouth,Machine Operator,Maintenance,Sprain,Back,Fire,Minor,No,No,Yes,7,26209.78
+INC0695,2024-11-18,Construction,North Angelaborough,Technician,Inspection,Sprain,Leg,Fall,Minor,Yes,Yes,No,3,4029.04
+INC0696,2024-08-26,Oil & Gas,New Austin,Welder,Maintenance,Fracture,Arm,Chemical Exposure,Minor,No,Yes,Yes,9,13582.54
+INC0697,2024-11-26,Manufacturing,New Stephanieview,Electrician,Drilling,Fracture,Head,Fall,Major,Yes,No,No,8,30429.86
+INC0698,2024-10-13,Oil & Gas,Ianshire,Safety Officer,Welding,Sprain,Leg,Equipment Failure,Minor,Yes,No,No,3,21272.18
+INC0699,2023-01-30,Construction,Ortizberg,Machine Operator,Inspection,Fracture,Foot,Chemical Exposure,Fatal,No,No,No,8,6329.4
+INC0700,2023-11-08,Manufacturing,East Tamarahaven,Safety Officer,Welding,Laceration,Arm,Human Error,Minor,Yes,No,Yes,12,26659.27
