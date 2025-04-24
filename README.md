@@ -1,4 +1,13 @@
-# 🛡️ OHS Intelligence Platform
+# 🛡️ Vallberg Civitas Ltd. | OHS Intelligence Platform
+
+## 🏗️ Company Overview: Vallberg Civitas Ltd.
+
+**Vallberg Civitas Ltd.** is a dynamic construction and infrastructure development firm headquartered in **Tallinn, Estonia**, with operations spanning across Northern and Eastern Europe. Founded in 2008, the company delivers strategic infrastructure projects, including urban transit systems, energy facilities, and high-performance commercial structures.
+
+With a skilled workforce of over **1,000 employees**, Vallberg Civitas is committed to engineering excellence, environmental sustainability, and modern construction practices. The company leverages digital design technologies and robust project management systems to ensure timely, cost-effective delivery of complex projects.
+
+**Occupational Health and Safety (OHS)** is a foundational principle in the company’s culture. Vallberg Civitas is ISO 45001 certified and utilizes an integrated safety intelligence platform to track incidents, monitor trends, and identify hazards before they escalate. Through data-driven decision making and frontline engagement, Vallberg Civitas builds not just structures — but safe, thriving environments for everyone involved.
+
 
 An all-in-one Occupational Health & Safety (OHS) data platform built to predict job task risk levels, visualize workplace safety trends, and collect incident reports in real-time.
 
